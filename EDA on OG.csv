@@ -1,0 +1,1357 @@
+period,seriesId/0,seriesDescription,value,unit
+2026-03,COPRAP,Crude Oil Production: Appalachia,.177134898,million barrels per day
+2026-03,COPRBK,Crude Oil Production: Bakken,1.20305605,million barrels per day
+2026-03,COPREF,Crude Oil Production: Eagle Ford,1.155919,million barrels per day
+2026-03,COPRHA,Crude Oil Production: Haynesville,.026449626,million barrels per day
+2026-03,COPRPM,Crude Oil Production: Permian,6.64332,million barrels per day
+2026-03,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.013854552,million barrels per day
+2026-03,NGMPAP,Natural Gas Appalachia Marketed Production,37.23968156,billion cubic feet per day
+2026-03,NGMPBK,Natural Gas Bakken Marketed Production,3.37712491,billion cubic feet per day
+2026-03,NGMPEF,Natural Gas Eagle Ford Marketed Production,7.329932,billion cubic feet per day
+2026-03,NGMPHA,Natural Gas Haynesville Marketed Production,15.84993096,billion cubic feet per day
+2026-03,NGMPPM,Natural Gas Permian Marketed Production,28.5982,billion cubic feet per day
+2026-03,NGMPR48,Natural Gas Rest of U.S. Marketed Production,25.53215441,billion cubic feet per day
+2026-02,COPRAP,Crude Oil Production: Appalachia,.18013809,million barrels per day
+2026-02,COPRBK,Crude Oil Production: Bakken,1.21525651,million barrels per day
+2026-02,COPREF,Crude Oil Production: Eagle Ford,1.159609,million barrels per day
+2026-02,COPRHA,Crude Oil Production: Haynesville,.026568009,million barrels per day
+2026-02,COPRPM,Crude Oil Production: Permian,6.638812,million barrels per day
+2026-02,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.016871062,million barrels per day
+2026-02,NGMPAP,Natural Gas Appalachia Marketed Production,37.04688367,billion cubic feet per day
+2026-02,NGMPBK,Natural Gas Bakken Marketed Production,3.37923869,billion cubic feet per day
+2026-02,NGMPEF,Natural Gas Eagle Ford Marketed Production,7.351554,billion cubic feet per day
+2026-02,NGMPHA,Natural Gas Haynesville Marketed Production,15.714026,billion cubic feet per day
+2026-02,NGMPPM,Natural Gas Permian Marketed Production,28.57361,billion cubic feet per day
+2026-02,NGMPR48,Natural Gas Rest of U.S. Marketed Production,25.61461154,billion cubic feet per day
+2026-01,COPRAP,Crude Oil Production: Appalachia,.18382333,million barrels per day
+2026-01,COPRBK,Crude Oil Production: Bakken,1.19651304,million barrels per day
+2026-01,COPREF,Crude Oil Production: Eagle Ford,1.136449,million barrels per day
+2026-01,COPRHA,Crude Oil Production: Haynesville,.026728178,million barrels per day
+2026-01,COPRPM,Crude Oil Production: Permian,6.53254,million barrels per day
+2026-01,COPRR48,Crude Oil Production: Rest of Lower 48 States,1.99193264,million barrels per day
+2026-01,DUCSAP,Appalachia Drilled but Uncompleted Wells ,697,
+2026-01,DUCSBK,Bakken Drilled but Uncompleted Wells ,253,
+2026-01,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,355,
+2026-01,DUCSHA,Haynesville Drilled but Uncompleted Wells ,606,
+2026-01,DUCSPM,Permian Drilled but Uncompleted Wells ,822,
+2026-01,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2282,
+2026-01,NGMPAP,Natural Gas Appalachia Marketed Production,34.54319864,billion cubic feet per day
+2026-01,NGMPBK,Natural Gas Bakken Marketed Production,3.3270005,billion cubic feet per day
+2026-01,NGMPEF,Natural Gas Eagle Ford Marketed Production,7.319997,billion cubic feet per day
+2026-01,NGMPHA,Natural Gas Haynesville Marketed Production,15.1740566,billion cubic feet per day
+2026-01,NGMPPM,Natural Gas Permian Marketed Production,28.27293,billion cubic feet per day
+2026-01,NGMPR48,Natural Gas Rest of U.S. Marketed Production,25.40329528,billion cubic feet per day
+2026-01,NWCAP,Appalachia New Wells Completed,73,
+2026-01,NWCBK,Bakken New Wells Completed,70,
+2026-01,NWCEF,Eagle Ford New Wells Completed,95,
+2026-01,NWCHA,Haynesville New Wells Completed,44,
+2026-01,NWCPM,Permian New Wells Completed,426,
+2026-01,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",203,
+2026-01,NWDAP,Appalachia New Wells Drilled,72,
+2026-01,NWDBK,Bakken New Wells Drilled,59,
+2026-01,NWDEF,Eagle Ford New Wells Drilled,103,
+2026-01,NWDHA,Haynesville New Wells Drilled,44,
+2026-01,NWDPM,Permian New Wells Drilled,421,
+2026-01,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",229,
+2026-01,RIGSAP,Appalachia Active Rigs,39,
+2026-01,RIGSBK,Bakken Active Rigs,28.25,
+2026-01,RIGSEF,Eagle Ford Active Rigs,47.25,
+2026-01,RIGSHA,Haynesville Active Rigs,47.25,
+2026-01,RIGSPM,Permian Active Rigs,243.5,
+2026-01,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",121.75,
+2025-12,COPRAP,Crude Oil Production: Appalachia,.187903642,million barrels per day
+2025-12,COPRBK,Crude Oil Production: Bakken,1.23136705,million barrels per day
+2025-12,COPREF,Crude Oil Production: Eagle Ford,1.180305,million barrels per day
+2025-12,COPRHA,Crude Oil Production: Haynesville,.026905662,million barrels per day
+2025-12,COPRPM,Crude Oil Production: Permian,6.733803,million barrels per day
+2025-12,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.026524238,million barrels per day
+2025-12,DUCSAP,Appalachia Drilled but Uncompleted Wells ,698,
+2025-12,DUCSBK,Bakken Drilled but Uncompleted Wells ,264,
+2025-12,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,346,
+2025-12,DUCSHA,Haynesville Drilled but Uncompleted Wells ,606,
+2025-12,DUCSPM,Permian Drilled but Uncompleted Wells ,827,
+2025-12,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2256,
+2025-12,NGMPAP,Natural Gas Appalachia Marketed Production,37.11245057,billion cubic feet per day
+2025-12,NGMPBK,Natural Gas Bakken Marketed Production,3.38875796,billion cubic feet per day
+2025-12,NGMPEF,Natural Gas Eagle Ford Marketed Production,7.445868,billion cubic feet per day
+2025-12,NGMPHA,Natural Gas Haynesville Marketed Production,15.54003351,billion cubic feet per day
+2025-12,NGMPPM,Natural Gas Permian Marketed Production,28.8013,billion cubic feet per day
+2025-12,NGMPR48,Natural Gas Rest of U.S. Marketed Production,25.74127751,billion cubic feet per day
+2025-12,NWCAP,Appalachia New Wells Completed,78,
+2025-12,NWCBK,Bakken New Wells Completed,74,
+2025-12,NWCEF,Eagle Ford New Wells Completed,102,
+2025-12,NWCHA,Haynesville New Wells Completed,48,
+2025-12,NWCPM,Permian New Wells Completed,444,
+2025-12,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",206,
+2025-12,NWDAP,Appalachia New Wells Drilled,72,
+2025-12,NWDBK,Bakken New Wells Drilled,60,
+2025-12,NWDEF,Eagle Ford New Wells Drilled,105,
+2025-12,NWDHA,Haynesville New Wells Drilled,45,
+2025-12,NWDPM,Permian New Wells Drilled,423,
+2025-12,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",217,
+2025-12,RIGSAP,Appalachia Active Rigs,38.8,
+2025-12,RIGSBK,Bakken Active Rigs,29,
+2025-12,RIGSEF,Eagle Ford Active Rigs,48.8,
+2025-12,RIGSHA,Haynesville Active Rigs,48,
+2025-12,RIGSPM,Permian Active Rigs,248,
+2025-12,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",114.8,
+2025-11,COPRAP,Crude Oil Production: Appalachia,.191814002,million barrels per day
+2025-11,COPRBK,Crude Oil Production: Bakken,1.22917303,million barrels per day
+2025-11,COPREF,Crude Oil Production: Eagle Ford,1.187575648,million barrels per day
+2025-11,COPRHA,Crude Oil Production: Haynesville,.026980906,million barrels per day
+2025-11,COPRPM,Crude Oil Production: Permian,6.731671266,million barrels per day
+2025-11,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.018478226,million barrels per day
+2025-11,DUCSAP,Appalachia Drilled but Uncompleted Wells ,703,
+2025-11,DUCSBK,Bakken Drilled but Uncompleted Wells ,278,
+2025-11,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,343,
+2025-11,DUCSHA,Haynesville Drilled but Uncompleted Wells ,609,
+2025-11,DUCSPM,Permian Drilled but Uncompleted Wells ,848,
+2025-11,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2245,
+2025-11,NGMPAP,Natural Gas Appalachia Marketed Production,37.18863558,billion cubic feet per day
+2025-11,NGMPBK,Natural Gas Bakken Marketed Production,3.38516726,billion cubic feet per day
+2025-11,NGMPEF,Natural Gas Eagle Ford Marketed Production,7.655658298,billion cubic feet per day
+2025-11,NGMPHA,Natural Gas Haynesville Marketed Production,15.45754575,billion cubic feet per day
+2025-11,NGMPPM,Natural Gas Permian Marketed Production,28.77590583,billion cubic feet per day
+2025-11,NGMPR48,Natural Gas Rest of U.S. Marketed Production,25.85923528,billion cubic feet per day
+2025-11,NWCAP,Appalachia New Wells Completed,82,
+2025-11,NWCBK,Bakken New Wells Completed,74,
+2025-11,NWCEF,Eagle Ford New Wells Completed,102,
+2025-11,NWCHA,Haynesville New Wells Completed,65,
+2025-11,NWCPM,Permian New Wells Completed,470,
+2025-11,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",205,
+2025-11,NWDAP,Appalachia New Wells Drilled,69,
+2025-11,NWDBK,Bakken New Wells Drilled,59,
+2025-11,NWDEF,Eagle Ford New Wells Drilled,107,
+2025-11,NWDHA,Haynesville New Wells Drilled,42,
+2025-11,NWDPM,Permian New Wells Drilled,427,
+2025-11,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",210,
+2025-11,RIGSAP,Appalachia Active Rigs,37.5,
+2025-11,RIGSBK,Bakken Active Rigs,29.25,
+2025-11,RIGSEF,Eagle Ford Active Rigs,51,
+2025-11,RIGSHA,Haynesville Active Rigs,45,
+2025-11,RIGSPM,Permian Active Rigs,252.25,
+2025-11,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",112.5,
+2025-10,COPRAP,Crude Oil Production: Appalachia,.19679921,million barrels per day
+2025-10,COPRBK,Crude Oil Production: Bakken,1.227674985,million barrels per day
+2025-10,COPREF,Crude Oil Production: Eagle Ford,1.174681646,million barrels per day
+2025-10,COPRHA,Crude Oil Production: Haynesville,.026899365,million barrels per day
+2025-10,COPRPM,Crude Oil Production: Permian,6.707535072,million barrels per day
+2025-10,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.058873061,million barrels per day
+2025-10,DUCSAP,Appalachia Drilled but Uncompleted Wells ,716,
+2025-10,DUCSBK,Bakken Drilled but Uncompleted Wells ,293,
+2025-10,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,337,
+2025-10,DUCSHA,Haynesville Drilled but Uncompleted Wells ,632,
+2025-10,DUCSPM,Permian Drilled but Uncompleted Wells ,891,
+2025-10,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2239,
+2025-10,NGMPAP,Natural Gas Appalachia Marketed Production,35.88516849,billion cubic feet per day
+2025-10,NGMPBK,Natural Gas Bakken Marketed Production,3.414865543,billion cubic feet per day
+2025-10,NGMPEF,Natural Gas Eagle Ford Marketed Production,7.514036909,billion cubic feet per day
+2025-10,NGMPHA,Natural Gas Haynesville Marketed Production,14.65368478,billion cubic feet per day
+2025-10,NGMPPM,Natural Gas Permian Marketed Production,28.18553286,billion cubic feet per day
+2025-10,NGMPR48,Natural Gas Rest of U.S. Marketed Production,25.77296942,billion cubic feet per day
+2025-10,NWCAP,Appalachia New Wells Completed,92,
+2025-10,NWCBK,Bakken New Wells Completed,74,
+2025-10,NWCEF,Eagle Ford New Wells Completed,101,
+2025-10,NWCHA,Haynesville New Wells Completed,46,
+2025-10,NWCPM,Permian New Wells Completed,455,
+2025-10,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",204,
+2025-10,NWDAP,Appalachia New Wells Drilled,68,
+2025-10,NWDBK,Bakken New Wells Drilled,60,
+2025-10,NWDEF,Eagle Ford New Wells Drilled,113,
+2025-10,NWDHA,Haynesville New Wells Drilled,42,
+2025-10,NWDPM,Permian New Wells Drilled,424,
+2025-10,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",209,
+2025-10,RIGSAP,Appalachia Active Rigs,37,
+2025-10,RIGSBK,Bakken Active Rigs,29.8,
+2025-10,RIGSEF,Eagle Ford Active Rigs,54.4,
+2025-10,RIGSHA,Haynesville Active Rigs,45,
+2025-10,RIGSPM,Permian Active Rigs,250.6,
+2025-10,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",112,
+2025-09,COPRAP,Crude Oil Production: Appalachia,.200982891,million barrels per day
+2025-09,COPRBK,Crude Oil Production: Bakken,1.217235822,million barrels per day
+2025-09,COPREF,Crude Oil Production: Eagle Ford,1.184857173,million barrels per day
+2025-09,COPRHA,Crude Oil Production: Haynesville,.02747811,million barrels per day
+2025-09,COPRPM,Crude Oil Production: Permian,6.715174265,million barrels per day
+2025-09,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.080789505,million barrels per day
+2025-09,DUCSAP,Appalachia Drilled but Uncompleted Wells ,740,
+2025-09,DUCSBK,Bakken Drilled but Uncompleted Wells ,306,
+2025-09,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,326,
+2025-09,DUCSHA,Haynesville Drilled but Uncompleted Wells ,636,
+2025-09,DUCSPM,Permian Drilled but Uncompleted Wells ,922,
+2025-09,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2234,
+2025-09,NGMPAP,Natural Gas Appalachia Marketed Production,36.59485141,billion cubic feet per day
+2025-09,NGMPBK,Natural Gas Bakken Marketed Production,3.437666035,billion cubic feet per day
+2025-09,NGMPEF,Natural Gas Eagle Ford Marketed Production,7.614726056,billion cubic feet per day
+2025-09,NGMPHA,Natural Gas Haynesville Marketed Production,14.77548598,billion cubic feet per day
+2025-09,NGMPPM,Natural Gas Permian Marketed Production,28.57536981,billion cubic feet per day
+2025-09,NGMPR48,Natural Gas Rest of U.S. Marketed Production,25.65144971,billion cubic feet per day
+2025-09,NWCAP,Appalachia New Wells Completed,68,
+2025-09,NWCBK,Bakken New Wells Completed,76,
+2025-09,NWCEF,Eagle Ford New Wells Completed,100,
+2025-09,NWCHA,Haynesville New Wells Completed,57,
+2025-09,NWCPM,Permian New Wells Completed,475,
+2025-09,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",203,
+2025-09,NWDAP,Appalachia New Wells Drilled,69,
+2025-09,NWDBK,Bakken New Wells Drilled,59,
+2025-09,NWDEF,Eagle Ford New Wells Drilled,106,
+2025-09,NWDHA,Haynesville New Wells Drilled,42,
+2025-09,NWDPM,Permian New Wells Drilled,425,
+2025-09,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",195,
+2025-09,RIGSAP,Appalachia Active Rigs,37,
+2025-09,RIGSBK,Bakken Active Rigs,29,
+2025-09,RIGSEF,Eagle Ford Active Rigs,51.5,
+2025-09,RIGSHA,Haynesville Active Rigs,45.75,
+2025-09,RIGSPM,Permian Active Rigs,253.75,
+2025-09,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",106,
+2025-08,COPRAP,Crude Oil Production: Appalachia,.206512218,million barrels per day
+2025-08,COPRBK,Crude Oil Production: Bakken,1.225244173,million barrels per day
+2025-08,COPREF,Crude Oil Production: Eagle Ford,1.189622597,million barrels per day
+2025-08,COPRHA,Crude Oil Production: Haynesville,.027590872,million barrels per day
+2025-08,COPRPM,Crude Oil Production: Permian,6.714058484,million barrels per day
+2025-08,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.07693606,million barrels per day
+2025-08,DUCSAP,Appalachia Drilled but Uncompleted Wells ,740,
+2025-08,DUCSBK,Bakken Drilled but Uncompleted Wells ,323,
+2025-08,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,319,
+2025-08,DUCSHA,Haynesville Drilled but Uncompleted Wells ,651,
+2025-08,DUCSPM,Permian Drilled but Uncompleted Wells ,972,
+2025-08,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2244,
+2025-08,NGMPAP,Natural Gas Appalachia Marketed Production,36.81081106,billion cubic feet per day
+2025-08,NGMPBK,Natural Gas Bakken Marketed Production,3.409702057,billion cubic feet per day
+2025-08,NGMPEF,Natural Gas Eagle Ford Marketed Production,7.623500211,billion cubic feet per day
+2025-08,NGMPHA,Natural Gas Haynesville Marketed Production,15.21443174,billion cubic feet per day
+2025-08,NGMPPM,Natural Gas Permian Marketed Production,28.34227672,billion cubic feet per day
+2025-08,NGMPR48,Natural Gas Rest of U.S. Marketed Production,25.45189422,billion cubic feet per day
+2025-08,NWCAP,Appalachia New Wells Completed,71,
+2025-08,NWCBK,Bakken New Wells Completed,72,
+2025-08,NWCEF,Eagle Ford New Wells Completed,99,
+2025-08,NWCHA,Haynesville New Wells Completed,58,
+2025-08,NWCPM,Permian New Wells Completed,515,
+2025-08,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",218,
+2025-08,NWDAP,Appalachia New Wells Drilled,67,
+2025-08,NWDBK,Bakken New Wells Drilled,62,
+2025-08,NWDEF,Eagle Ford New Wells Drilled,101,
+2025-08,NWDHA,Haynesville New Wells Drilled,41,
+2025-08,NWDPM,Permian New Wells Drilled,426,
+2025-08,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",189,
+2025-08,RIGSAP,Appalachia Active Rigs,36,
+2025-08,RIGSBK,Bakken Active Rigs,30.4,
+2025-08,RIGSEF,Eagle Ford Active Rigs,48.8,
+2025-08,RIGSHA,Haynesville Active Rigs,44.8,
+2025-08,RIGSPM,Permian Active Rigs,256,
+2025-08,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",103.4,
+2025-07,COPRAP,Crude Oil Production: Appalachia,.2029082,million barrels per day
+2025-07,COPRBK,Crude Oil Production: Bakken,1.233988802,million barrels per day
+2025-07,COPREF,Crude Oil Production: Eagle Ford,1.190302419,million barrels per day
+2025-07,COPRHA,Crude Oil Production: Haynesville,.027917703,million barrels per day
+2025-07,COPRPM,Crude Oil Production: Permian,6.710165941,million barrels per day
+2025-07,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.070789419,million barrels per day
+2025-07,DUCSAP,Appalachia Drilled but Uncompleted Wells ,744,
+2025-07,DUCSBK,Bakken Drilled but Uncompleted Wells ,333,
+2025-07,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,318,
+2025-07,DUCSHA,Haynesville Drilled but Uncompleted Wells ,668,
+2025-07,DUCSPM,Permian Drilled but Uncompleted Wells ,1061,
+2025-07,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2271,
+2025-07,NGMPAP,Natural Gas Appalachia Marketed Production,36.76005436,billion cubic feet per day
+2025-07,NGMPBK,Natural Gas Bakken Marketed Production,3.420969137,billion cubic feet per day
+2025-07,NGMPEF,Natural Gas Eagle Ford Marketed Production,7.519158462,billion cubic feet per day
+2025-07,NGMPHA,Natural Gas Haynesville Marketed Production,14.75606655,billion cubic feet per day
+2025-07,NGMPPM,Natural Gas Permian Marketed Production,28.22581527,billion cubic feet per day
+2025-07,NGMPR48,Natural Gas Rest of U.S. Marketed Production,25.56328623,billion cubic feet per day
+2025-07,NWCAP,Appalachia New Wells Completed,79,
+2025-07,NWCBK,Bakken New Wells Completed,70,
+2025-07,NWCEF,Eagle Ford New Wells Completed,105,
+2025-07,NWCHA,Haynesville New Wells Completed,55,
+2025-07,NWCPM,Permian New Wells Completed,415,
+2025-07,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",199,
+2025-07,NWDAP,Appalachia New Wells Drilled,65,
+2025-07,NWDBK,Bakken New Wells Drilled,62,
+2025-07,NWDEF,Eagle Ford New Wells Drilled,102,
+2025-07,NWDHA,Haynesville New Wells Drilled,38,
+2025-07,NWDPM,Permian New Wells Drilled,433,
+2025-07,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",180,
+2025-07,RIGSAP,Appalachia Active Rigs,35.25,
+2025-07,RIGSBK,Bakken Active Rigs,31,
+2025-07,RIGSEF,Eagle Ford Active Rigs,49.5,
+2025-07,RIGSHA,Haynesville Active Rigs,41.5,
+2025-07,RIGSPM,Permian Active Rigs,263.25,
+2025-07,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",100,
+2025-06,COPRAP,Crude Oil Production: Appalachia,.189071,million barrels per day
+2025-06,COPRBK,Crude Oil Production: Bakken,1.214646282,million barrels per day
+2025-06,COPREF,Crude Oil Production: Eagle Ford,1.171960001,million barrels per day
+2025-06,COPRHA,Crude Oil Production: Haynesville,.027958035,million barrels per day
+2025-06,COPRPM,Crude Oil Production: Permian,6.574957579,million barrels per day
+2025-06,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.097233174,million barrels per day
+2025-06,DUCSAP,Appalachia Drilled but Uncompleted Wells ,758,
+2025-06,DUCSBK,Bakken Drilled but Uncompleted Wells ,341,
+2025-06,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,320,
+2025-06,DUCSHA,Haynesville Drilled but Uncompleted Wells ,685,
+2025-06,DUCSPM,Permian Drilled but Uncompleted Wells ,1043,
+2025-06,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2289,
+2025-06,NGMPAP,Natural Gas Appalachia Marketed Production,37.21661599,billion cubic feet per day
+2025-06,NGMPBK,Natural Gas Bakken Marketed Production,3.335368062,billion cubic feet per day
+2025-06,NGMPEF,Natural Gas Eagle Ford Marketed Production,7.466681769,billion cubic feet per day
+2025-06,NGMPHA,Natural Gas Haynesville Marketed Production,14.33994009,billion cubic feet per day
+2025-06,NGMPPM,Natural Gas Permian Marketed Production,27.5039058,billion cubic feet per day
+2025-06,NGMPR48,Natural Gas Rest of U.S. Marketed Production,25.47895429,billion cubic feet per day
+2025-06,NWCAP,Appalachia New Wells Completed,92,
+2025-06,NWCBK,Bakken New Wells Completed,78,
+2025-06,NWCEF,Eagle Ford New Wells Completed,115,
+2025-06,NWCHA,Haynesville New Wells Completed,46,
+2025-06,NWCPM,Permian New Wells Completed,450,
+2025-06,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",214,
+2025-06,NWDAP,Appalachia New Wells Drilled,67,
+2025-06,NWDBK,Bakken New Wells Drilled,62,
+2025-06,NWDEF,Eagle Ford New Wells Drilled,99,
+2025-06,NWDHA,Haynesville New Wells Drilled,36,
+2025-06,NWDPM,Permian New Wells Drilled,447,
+2025-06,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",195,
+2025-06,RIGSAP,Appalachia Active Rigs,36,
+2025-06,RIGSBK,Bakken Active Rigs,31,
+2025-06,RIGSEF,Eagle Ford Active Rigs,49,
+2025-06,RIGSHA,Haynesville Active Rigs,38.5,
+2025-06,RIGSPM,Permian Active Rigs,272.25,
+2025-06,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",107.5,
+2025-05,COPRAP,Crude Oil Production: Appalachia,.194892711,million barrels per day
+2025-05,COPRBK,Crude Oil Production: Bakken,1.176293663,million barrels per day
+2025-05,COPREF,Crude Oil Production: Eagle Ford,1.165846923,million barrels per day
+2025-05,COPRHA,Crude Oil Production: Haynesville,.027675575,million barrels per day
+2025-05,COPRPM,Crude Oil Production: Permian,6.512403104,million barrels per day
+2025-05,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.090233313,million barrels per day
+2025-05,DUCSAP,Appalachia Drilled but Uncompleted Wells ,784,
+2025-05,DUCSBK,Bakken Drilled but Uncompleted Wells ,356,
+2025-05,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,336,
+2025-05,DUCSHA,Haynesville Drilled but Uncompleted Wells ,695,
+2025-05,DUCSPM,Permian Drilled but Uncompleted Wells ,1045,
+2025-05,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2309,
+2025-05,NGMPAP,Natural Gas Appalachia Marketed Production,36.51038053,billion cubic feet per day
+2025-05,NGMPBK,Natural Gas Bakken Marketed Production,3.245404557,billion cubic feet per day
+2025-05,NGMPEF,Natural Gas Eagle Ford Marketed Production,7.341100974,billion cubic feet per day
+2025-05,NGMPHA,Natural Gas Haynesville Marketed Production,15.06694892,billion cubic feet per day
+2025-05,NGMPPM,Natural Gas Permian Marketed Production,26.99996599,billion cubic feet per day
+2025-05,NGMPR48,Natural Gas Rest of U.S. Marketed Production,25.50005103,billion cubic feet per day
+2025-05,NWCAP,Appalachia New Wells Completed,66,
+2025-05,NWCBK,Bakken New Wells Completed,66,
+2025-05,NWCEF,Eagle Ford New Wells Completed,120,
+2025-05,NWCHA,Haynesville New Wells Completed,52,
+2025-05,NWCPM,Permian New Wells Completed,487,
+2025-05,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",237,
+2025-05,NWDAP,Appalachia New Wells Drilled,67,
+2025-05,NWDBK,Bakken New Wells Drilled,64,
+2025-05,NWDEF,Eagle Ford New Wells Drilled,105,
+2025-05,NWDHA,Haynesville New Wells Drilled,34,
+2025-05,NWDPM,Permian New Wells Drilled,459,
+2025-05,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",207,
+2025-05,RIGSAP,Appalachia Active Rigs,35.8,
+2025-05,RIGSBK,Bakken Active Rigs,32.2,
+2025-05,RIGSEF,Eagle Ford Active Rigs,51.4,
+2025-05,RIGSHA,Haynesville Active Rigs,36,
+2025-05,RIGSPM,Permian Active Rigs,282.2,
+2025-05,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",115.8,
+2025-04,COPRAP,Crude Oil Production: Appalachia,.1863061,million barrels per day
+2025-04,COPRBK,Crude Oil Production: Bakken,1.213193192,million barrels per day
+2025-04,COPREF,Crude Oil Production: Eagle Ford,1.18967196,million barrels per day
+2025-04,COPRHA,Crude Oil Production: Haynesville,.028568232,million barrels per day
+2025-04,COPRPM,Crude Oil Production: Permian,6.523278362,million barrels per day
+2025-04,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.093520005,million barrels per day
+2025-04,DUCSAP,Appalachia Drilled but Uncompleted Wells ,783,
+2025-04,DUCSBK,Bakken Drilled but Uncompleted Wells ,358,
+2025-04,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,351,
+2025-04,DUCSHA,Haynesville Drilled but Uncompleted Wells ,713,
+2025-04,DUCSPM,Permian Drilled but Uncompleted Wells ,1073,
+2025-04,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2338,
+2025-04,NGMPAP,Natural Gas Appalachia Marketed Production,36.33197863,billion cubic feet per day
+2025-04,NGMPBK,Natural Gas Bakken Marketed Production,3.329682109,billion cubic feet per day
+2025-04,NGMPEF,Natural Gas Eagle Ford Marketed Production,7.301821797,billion cubic feet per day
+2025-04,NGMPHA,Natural Gas Haynesville Marketed Production,15.28519261,billion cubic feet per day
+2025-04,NGMPPM,Natural Gas Permian Marketed Production,26.87187357,billion cubic feet per day
+2025-04,NGMPR48,Natural Gas Rest of U.S. Marketed Production,25.59730929,billion cubic feet per day
+2025-04,NWCAP,Appalachia New Wells Completed,77,
+2025-04,NWCBK,Bakken New Wells Completed,78,
+2025-04,NWCEF,Eagle Ford New Wells Completed,130,
+2025-04,NWCHA,Haynesville New Wells Completed,37,
+2025-04,NWCPM,Permian New Wells Completed,567,
+2025-04,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",199,
+2025-04,NWDAP,Appalachia New Wells Drilled,69,
+2025-04,NWDBK,Bakken New Wells Drilled,65,
+2025-04,NWDEF,Eagle Ford New Wells Drilled,107,
+2025-04,NWDHA,Haynesville New Wells Drilled,32,
+2025-04,NWDPM,Permian New Wells Drilled,464,
+2025-04,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",212,
+2025-04,RIGSAP,Appalachia Active Rigs,36.75,
+2025-04,RIGSBK,Bakken Active Rigs,33,
+2025-04,RIGSEF,Eagle Ford Active Rigs,52.75,
+2025-04,RIGSHA,Haynesville Active Rigs,33.75,
+2025-04,RIGSPM,Permian Active Rigs,290.25,
+2025-04,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",117.5,
+2025-03,COPRAP,Crude Oil Production: Appalachia,.1804074,million barrels per day
+2025-03,COPRBK,Crude Oil Production: Bakken,1.227650807,million barrels per day
+2025-03,COPREF,Crude Oil Production: Eagle Ford,1.170923024,million barrels per day
+2025-03,COPRHA,Crude Oil Production: Haynesville,.02852551,million barrels per day
+2025-03,COPRPM,Crude Oil Production: Permian,6.52194463,million barrels per day
+2025-03,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.098577524,million barrels per day
+2025-03,DUCSAP,Appalachia Drilled but Uncompleted Wells ,791,
+2025-03,DUCSBK,Bakken Drilled but Uncompleted Wells ,370,
+2025-03,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,374,
+2025-03,DUCSHA,Haynesville Drilled but Uncompleted Wells ,718,
+2025-03,DUCSPM,Permian Drilled but Uncompleted Wells ,1176,
+2025-03,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2325,
+2025-03,NGMPAP,Natural Gas Appalachia Marketed Production,36.399906,billion cubic feet per day
+2025-03,NGMPBK,Natural Gas Bakken Marketed Production,3.29126198,billion cubic feet per day
+2025-03,NGMPEF,Natural Gas Eagle Ford Marketed Production,7.147904344,billion cubic feet per day
+2025-03,NGMPHA,Natural Gas Haynesville Marketed Production,15.65501493,billion cubic feet per day
+2025-03,NGMPPM,Natural Gas Permian Marketed Production,26.90793779,billion cubic feet per day
+2025-03,NGMPR48,Natural Gas Rest of U.S. Marketed Production,25.63085296,billion cubic feet per day
+2025-03,NWCAP,Appalachia New Wells Completed,94,
+2025-03,NWCBK,Bakken New Wells Completed,68,
+2025-03,NWCEF,Eagle Ford New Wells Completed,140,
+2025-03,NWCHA,Haynesville New Wells Completed,46,
+2025-03,NWCPM,Permian New Wells Completed,505,
+2025-03,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",184,
+2025-03,NWDAP,Appalachia New Wells Drilled,65,
+2025-03,NWDBK,Bakken New Wells Drilled,67,
+2025-03,NWDEF,Eagle Ford New Wells Drilled,107,
+2025-03,NWDHA,Haynesville New Wells Drilled,30,
+2025-03,NWDPM,Permian New Wells Drilled,470,
+2025-03,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",210,
+2025-03,RIGSAP,Appalachia Active Rigs,35,
+2025-03,RIGSBK,Bakken Active Rigs,33.25,
+2025-03,RIGSEF,Eagle Ford Active Rigs,53,
+2025-03,RIGSHA,Haynesville Active Rigs,31.25,
+2025-03,RIGSPM,Permian Active Rigs,300.5,
+2025-03,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",116.25,
+2025-02,COPRAP,Crude Oil Production: Appalachia,.1779778,million barrels per day
+2025-02,COPRBK,Crude Oil Production: Bakken,1.187852715,million barrels per day
+2025-02,COPREF,Crude Oil Production: Eagle Ford,1.174127055,million barrels per day
+2025-02,COPRHA,Crude Oil Production: Haynesville,.02931069,million barrels per day
+2025-02,COPRPM,Crude Oil Production: Permian,6.414547499,million barrels per day
+2025-02,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.054200131,million barrels per day
+2025-02,DUCSAP,Appalachia Drilled but Uncompleted Wells ,819,
+2025-02,DUCSBK,Bakken Drilled but Uncompleted Wells ,372,
+2025-02,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,406,
+2025-02,DUCSHA,Haynesville Drilled but Uncompleted Wells ,734,
+2025-02,DUCSPM,Permian Drilled but Uncompleted Wells ,1211,
+2025-02,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2298,
+2025-02,NGMPAP,Natural Gas Appalachia Marketed Production,36.41268951,billion cubic feet per day
+2025-02,NGMPBK,Natural Gas Bakken Marketed Production,3.129101008,billion cubic feet per day
+2025-02,NGMPEF,Natural Gas Eagle Ford Marketed Production,7.129290808,billion cubic feet per day
+2025-02,NGMPHA,Natural Gas Haynesville Marketed Production,14.21037949,billion cubic feet per day
+2025-02,NGMPPM,Natural Gas Permian Marketed Production,26.2731016,billion cubic feet per day
+2025-02,NGMPR48,Natural Gas Rest of U.S. Marketed Production,24.9110806,billion cubic feet per day
+2025-02,NWCAP,Appalachia New Wells Completed,63,
+2025-02,NWCBK,Bakken New Wells Completed,38,
+2025-02,NWCEF,Eagle Ford New Wells Completed,100,
+2025-02,NWCHA,Haynesville New Wells Completed,20,
+2025-02,NWCPM,Permian New Wells Completed,517,
+2025-02,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",168,
+2025-02,NWDAP,Appalachia New Wells Drilled,64,
+2025-02,NWDBK,Bakken New Wells Drilled,67,
+2025-02,NWDEF,Eagle Ford New Wells Drilled,106,
+2025-02,NWDHA,Haynesville New Wells Drilled,31,
+2025-02,NWDPM,Permian New Wells Drilled,474,
+2025-02,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",203,
+2025-02,RIGSAP,Appalachia Active Rigs,34.5,
+2025-02,RIGSBK,Bakken Active Rigs,33.25,
+2025-02,RIGSEF,Eagle Ford Active Rigs,52.5,
+2025-02,RIGSHA,Haynesville Active Rigs,32.25,
+2025-02,RIGSPM,Permian Active Rigs,304,
+2025-02,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",110.5,
+2025-01,COPRAP,Crude Oil Production: Appalachia,.168713558,million barrels per day
+2025-01,COPRBK,Crude Oil Production: Bakken,1.223127671,million barrels per day
+2025-01,COPREF,Crude Oil Production: Eagle Ford,1.110818819,million barrels per day
+2025-01,COPRHA,Crude Oil Production: Haynesville,.02921947,million barrels per day
+2025-01,COPRPM,Crude Oil Production: Permian,6.29942034,million barrels per day
+2025-01,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.067185631,million barrels per day
+2025-01,DUCSAP,Appalachia Drilled but Uncompleted Wells ,818,
+2025-01,DUCSBK,Bakken Drilled but Uncompleted Wells ,343,
+2025-01,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,400,
+2025-01,DUCSHA,Haynesville Drilled but Uncompleted Wells ,723,
+2025-01,DUCSPM,Permian Drilled but Uncompleted Wells ,1254,
+2025-01,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2263,
+2025-01,NGMPAP,Natural Gas Appalachia Marketed Production,36.06210338,billion cubic feet per day
+2025-01,NGMPBK,Natural Gas Bakken Marketed Production,3.189349276,billion cubic feet per day
+2025-01,NGMPEF,Natural Gas Eagle Ford Marketed Production,6.878278364,billion cubic feet per day
+2025-01,NGMPHA,Natural Gas Haynesville Marketed Production,14.11584313,billion cubic feet per day
+2025-01,NGMPPM,Natural Gas Permian Marketed Production,25.8910359,billion cubic feet per day
+2025-01,NGMPR48,Natural Gas Rest of U.S. Marketed Production,24.99753995,billion cubic feet per day
+2025-01,NWCAP,Appalachia New Wells Completed,43,
+2025-01,NWCBK,Bakken New Wells Completed,40,
+2025-01,NWCEF,Eagle Ford New Wells Completed,129,
+2025-01,NWCHA,Haynesville New Wells Completed,32,
+2025-01,NWCPM,Permian New Wells Completed,524,
+2025-01,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",180,
+2025-01,NWDAP,Appalachia New Wells Drilled,63,
+2025-01,NWDBK,Bakken New Wells Drilled,70,
+2025-01,NWDEF,Eagle Ford New Wells Drilled,101,
+2025-01,NWDHA,Haynesville New Wells Drilled,30,
+2025-01,NWDPM,Permian New Wells Drilled,467,
+2025-01,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",200,
+2025-01,RIGSAP,Appalachia Active Rigs,34,
+2025-01,RIGSBK,Bakken Active Rigs,34.8,
+2025-01,RIGSEF,Eagle Ford Active Rigs,49.4,
+2025-01,RIGSHA,Haynesville Active Rigs,30.8,
+2025-01,RIGSPM,Permian Active Rigs,302.6,
+2025-01,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",107.8,
+2024-12,COPRAP,Crude Oil Production: Appalachia,.15780833,million barrels per day
+2024-12,COPRBK,Crude Oil Production: Bakken,1.247633329,million barrels per day
+2024-12,COPREF,Crude Oil Production: Eagle Ford,1.134197861,million barrels per day
+2024-12,COPRHA,Crude Oil Production: Haynesville,.030308006,million barrels per day
+2024-12,COPRPM,Crude Oil Production: Permian,6.420612799,million barrels per day
+2024-12,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.142767958,million barrels per day
+2024-12,DUCSAP,Appalachia Drilled but Uncompleted Wells ,797,
+2024-12,DUCSBK,Bakken Drilled but Uncompleted Wells ,314,
+2024-12,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,428,
+2024-12,DUCSHA,Haynesville Drilled but Uncompleted Wells ,726,
+2024-12,DUCSPM,Permian Drilled but Uncompleted Wells ,1311,
+2024-12,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2242,
+2024-12,NGMPAP,Natural Gas Appalachia Marketed Production,36.90595166,billion cubic feet per day
+2024-12,NGMPBK,Natural Gas Bakken Marketed Production,3.229782166,billion cubic feet per day
+2024-12,NGMPEF,Natural Gas Eagle Ford Marketed Production,6.985375072,billion cubic feet per day
+2024-12,NGMPHA,Natural Gas Haynesville Marketed Production,13.94843037,billion cubic feet per day
+2024-12,NGMPPM,Natural Gas Permian Marketed Production,26.47492936,billion cubic feet per day
+2024-12,NGMPR48,Natural Gas Rest of U.S. Marketed Production,25.40560939,billion cubic feet per day
+2024-12,NWCAP,Appalachia New Wells Completed,62,
+2024-12,NWCBK,Bakken New Wells Completed,69,
+2024-12,NWCEF,Eagle Ford New Wells Completed,91,
+2024-12,NWCHA,Haynesville New Wells Completed,24,
+2024-12,NWCPM,Permian New Wells Completed,456,
+2024-12,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",178,
+2024-12,NWDAP,Appalachia New Wells Drilled,63,
+2024-12,NWDBK,Bakken New Wells Drilled,73,
+2024-12,NWDEF,Eagle Ford New Wells Drilled,103,
+2024-12,NWDHA,Haynesville New Wells Drilled,31,
+2024-12,NWDPM,Permian New Wells Drilled,467,
+2024-12,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",200,
+2024-12,RIGSAP,Appalachia Active Rigs,34.25,
+2024-12,RIGSBK,Bakken Active Rigs,36.25,
+2024-12,RIGSEF,Eagle Ford Active Rigs,51.25,
+2024-12,RIGSHA,Haynesville Active Rigs,31.75,
+2024-12,RIGSPM,Permian Active Rigs,304,
+2024-12,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",108.25,
+2024-11,COPRAP,Crude Oil Production: Appalachia,.159956269,million barrels per day
+2024-11,COPRBK,Crude Oil Production: Bakken,1.283438206,million barrels per day
+2024-11,COPREF,Crude Oil Production: Eagle Ford,1.165452284,million barrels per day
+2024-11,COPRHA,Crude Oil Production: Haynesville,.029826816,million barrels per day
+2024-11,COPRPM,Crude Oil Production: Permian,6.487016795,million barrels per day
+2024-11,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.166349166,million barrels per day
+2024-11,DUCSAP,Appalachia Drilled but Uncompleted Wells ,796,
+2024-11,DUCSBK,Bakken Drilled but Uncompleted Wells ,310,
+2024-11,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,416,
+2024-11,DUCSHA,Haynesville Drilled but Uncompleted Wells ,719,
+2024-11,DUCSPM,Permian Drilled but Uncompleted Wells ,1299,
+2024-11,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2219,
+2024-11,NGMPAP,Natural Gas Appalachia Marketed Production,35.45482007,billion cubic feet per day
+2024-11,NGMPBK,Natural Gas Bakken Marketed Production,3.321156666,billion cubic feet per day
+2024-11,NGMPEF,Natural Gas Eagle Ford Marketed Production,6.966201415,billion cubic feet per day
+2024-11,NGMPHA,Natural Gas Haynesville Marketed Production,13.92952221,billion cubic feet per day
+2024-11,NGMPPM,Natural Gas Permian Marketed Production,26.03136859,billion cubic feet per day
+2024-11,NGMPR48,Natural Gas Rest of U.S. Marketed Production,25.10558705,billion cubic feet per day
+2024-11,NWCAP,Appalachia New Wells Completed,52,
+2024-11,NWCBK,Bakken New Wells Completed,44,
+2024-11,NWCEF,Eagle Ford New Wells Completed,88,
+2024-11,NWCHA,Haynesville New Wells Completed,30,
+2024-11,NWCPM,Permian New Wells Completed,512,
+2024-11,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",170,
+2024-11,NWDAP,Appalachia New Wells Drilled,65,
+2024-11,NWDBK,Bakken New Wells Drilled,71,
+2024-11,NWDEF,Eagle Ford New Wells Drilled,103,
+2024-11,NWDHA,Haynesville New Wells Drilled,31,
+2024-11,NWDPM,Permian New Wells Drilled,465,
+2024-11,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",198,
+2024-11,RIGSAP,Appalachia Active Rigs,34.4,
+2024-11,RIGSBK,Bakken Active Rigs,35,
+2024-11,RIGSEF,Eagle Ford Active Rigs,51.6,
+2024-11,RIGSHA,Haynesville Active Rigs,32.4,
+2024-11,RIGSPM,Permian Active Rigs,303,
+2024-11,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",104,
+2024-10,COPRAP,Crude Oil Production: Appalachia,.164150909,million barrels per day
+2024-10,COPRBK,Crude Oil Production: Bakken,1.235031495,million barrels per day
+2024-10,COPREF,Crude Oil Production: Eagle Ford,1.215558156,million barrels per day
+2024-10,COPRHA,Crude Oil Production: Haynesville,.029293509,million barrels per day
+2024-10,COPRPM,Crude Oil Production: Permian,6.499630732,million barrels per day
+2024-10,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.147647942,million barrels per day
+2024-10,DUCSAP,Appalachia Drilled but Uncompleted Wells ,784,
+2024-10,DUCSBK,Bakken Drilled but Uncompleted Wells ,283,
+2024-10,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,400,
+2024-10,DUCSHA,Haynesville Drilled but Uncompleted Wells ,718,
+2024-10,DUCSPM,Permian Drilled but Uncompleted Wells ,1346,
+2024-10,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2191,
+2024-10,NGMPAP,Natural Gas Appalachia Marketed Production,35.27017087,billion cubic feet per day
+2024-10,NGMPBK,Natural Gas Bakken Marketed Production,3.273123873,billion cubic feet per day
+2024-10,NGMPEF,Natural Gas Eagle Ford Marketed Production,7.114143569,billion cubic feet per day
+2024-10,NGMPHA,Natural Gas Haynesville Marketed Production,13.84838935,billion cubic feet per day
+2024-10,NGMPPM,Natural Gas Permian Marketed Production,26.30317553,billion cubic feet per day
+2024-10,NGMPR48,Natural Gas Rest of U.S. Marketed Production,24.69533882,billion cubic feet per day
+2024-10,NWCAP,Appalachia New Wells Completed,53,
+2024-10,NWCBK,Bakken New Wells Completed,75,
+2024-10,NWCEF,Eagle Ford New Wells Completed,93,
+2024-10,NWCHA,Haynesville New Wells Completed,36,
+2024-10,NWCPM,Permian New Wells Completed,526,
+2024-10,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",164,
+2024-10,NWDAP,Appalachia New Wells Drilled,60,
+2024-10,NWDBK,Bakken New Wells Drilled,69,
+2024-10,NWDEF,Eagle Ford New Wells Drilled,102,
+2024-10,NWDHA,Haynesville New Wells Drilled,31,
+2024-10,NWDPM,Permian New Wells Drilled,464,
+2024-10,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",199,
+2024-10,RIGSAP,Appalachia Active Rigs,32.5,
+2024-10,RIGSBK,Bakken Active Rigs,34,
+2024-10,RIGSEF,Eagle Ford Active Rigs,51.75,
+2024-10,RIGSHA,Haynesville Active Rigs,33.5,
+2024-10,RIGSPM,Permian Active Rigs,304,
+2024-10,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",103,
+2024-09,COPRAP,Crude Oil Production: Appalachia,.147321284,million barrels per day
+2024-09,COPRBK,Crude Oil Production: Bakken,1.253289932,million barrels per day
+2024-09,COPREF,Crude Oil Production: Eagle Ford,1.214798722,million barrels per day
+2024-09,COPRHA,Crude Oil Production: Haynesville,.028790864,million barrels per day
+2024-09,COPRPM,Crude Oil Production: Permian,6.400139779,million barrels per day
+2024-09,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.110691588,million barrels per day
+2024-09,DUCSAP,Appalachia Drilled but Uncompleted Wells ,776,
+2024-09,DUCSBK,Bakken Drilled but Uncompleted Wells ,289,
+2024-09,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,391,
+2024-09,DUCSHA,Haynesville Drilled but Uncompleted Wells ,723,
+2024-09,DUCSPM,Permian Drilled but Uncompleted Wells ,1408,
+2024-09,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2156,
+2024-09,NGMPAP,Natural Gas Appalachia Marketed Production,35.05303181,billion cubic feet per day
+2024-09,NGMPBK,Natural Gas Bakken Marketed Production,3.433474022,billion cubic feet per day
+2024-09,NGMPEF,Natural Gas Eagle Ford Marketed Production,6.841616562,billion cubic feet per day
+2024-09,NGMPHA,Natural Gas Haynesville Marketed Production,13.86680877,billion cubic feet per day
+2024-09,NGMPPM,Natural Gas Permian Marketed Production,25.70600367,billion cubic feet per day
+2024-09,NGMPR48,Natural Gas Rest of U.S. Marketed Production,24.68342316,billion cubic feet per day
+2024-09,NWCAP,Appalachia New Wells Completed,47,
+2024-09,NWCBK,Bakken New Wells Completed,85,
+2024-09,NWCEF,Eagle Ford New Wells Completed,126,
+2024-09,NWCHA,Haynesville New Wells Completed,38,
+2024-09,NWCPM,Permian New Wells Completed,482,
+2024-09,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",193,
+2024-09,NWDAP,Appalachia New Wells Drilled,61,
+2024-09,NWDBK,Bakken New Wells Drilled,69,
+2024-09,NWDEF,Eagle Ford New Wells Drilled,101,
+2024-09,NWDHA,Haynesville New Wells Drilled,31,
+2024-09,NWDPM,Permian New Wells Drilled,463,
+2024-09,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",191,
+2024-09,RIGSAP,Appalachia Active Rigs,33,
+2024-09,RIGSBK,Bakken Active Rigs,34,
+2024-09,RIGSEF,Eagle Ford Active Rigs,51.75,
+2024-09,RIGSHA,Haynesville Active Rigs,33,
+2024-09,RIGSPM,Permian Active Rigs,306.25,
+2024-09,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",100,
+2024-08,COPRAP,Crude Oil Production: Appalachia,.149192993,million barrels per day
+2024-08,COPRBK,Crude Oil Production: Bakken,1.230106016,million barrels per day
+2024-08,COPREF,Crude Oil Production: Eagle Ford,1.207138727,million barrels per day
+2024-08,COPRHA,Crude Oil Production: Haynesville,.028157304,million barrels per day
+2024-08,COPRPM,Crude Oil Production: Permian,6.431517593,million barrels per day
+2024-08,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.128500104,million barrels per day
+2024-08,DUCSAP,Appalachia Drilled but Uncompleted Wells ,762,
+2024-08,DUCSBK,Bakken Drilled but Uncompleted Wells ,306,
+2024-08,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,416,
+2024-08,DUCSHA,Haynesville Drilled but Uncompleted Wells ,730,
+2024-08,DUCSPM,Permian Drilled but Uncompleted Wells ,1427,
+2024-08,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2158,
+2024-08,NGMPAP,Natural Gas Appalachia Marketed Production,35.14923389,billion cubic feet per day
+2024-08,NGMPBK,Natural Gas Bakken Marketed Production,3.388404211,billion cubic feet per day
+2024-08,NGMPEF,Natural Gas Eagle Ford Marketed Production,6.916668407,billion cubic feet per day
+2024-08,NGMPHA,Natural Gas Haynesville Marketed Production,14.31014063,billion cubic feet per day
+2024-08,NGMPPM,Natural Gas Permian Marketed Production,25.72883829,billion cubic feet per day
+2024-08,NGMPR48,Natural Gas Rest of U.S. Marketed Production,24.88136157,billion cubic feet per day
+2024-08,NWCAP,Appalachia New Wells Completed,52,
+2024-08,NWCBK,Bakken New Wells Completed,94,
+2024-08,NWCEF,Eagle Ford New Wells Completed,116,
+2024-08,NWCHA,Haynesville New Wells Completed,32,
+2024-08,NWCPM,Permian New Wells Completed,532,
+2024-08,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",211,
+2024-08,NWDAP,Appalachia New Wells Drilled,64,
+2024-08,NWDBK,Bakken New Wells Drilled,71,
+2024-08,NWDEF,Eagle Ford New Wells Drilled,98,
+2024-08,NWDHA,Haynesville New Wells Drilled,33,
+2024-08,NWDPM,Permian New Wells Drilled,462,
+2024-08,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",193,
+2024-08,RIGSAP,Appalachia Active Rigs,35,
+2024-08,RIGSBK,Bakken Active Rigs,35.2,
+2024-08,RIGSEF,Eagle Ford Active Rigs,52.2,
+2024-08,RIGSHA,Haynesville Active Rigs,34,
+2024-08,RIGSPM,Permian Active Rigs,304.2,
+2024-08,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",97.6,
+2024-07,COPRAP,Crude Oil Production: Appalachia,.151004011,million barrels per day
+2024-07,COPRBK,Crude Oil Production: Bakken,1.215032123,million barrels per day
+2024-07,COPREF,Crude Oil Production: Eagle Ford,1.164427555,million barrels per day
+2024-07,COPRHA,Crude Oil Production: Haynesville,.027978356,million barrels per day
+2024-07,COPRPM,Crude Oil Production: Permian,6.31231925,million barrels per day
+2024-07,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.104835648,million barrels per day
+2024-07,DUCSAP,Appalachia Drilled but Uncompleted Wells ,749,
+2024-07,DUCSBK,Bakken Drilled but Uncompleted Wells ,329,
+2024-07,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,434,
+2024-07,DUCSHA,Haynesville Drilled but Uncompleted Wells ,729,
+2024-07,DUCSPM,Permian Drilled but Uncompleted Wells ,1496,
+2024-07,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2177,
+2024-07,NGMPAP,Natural Gas Appalachia Marketed Production,36.21447388,billion cubic feet per day
+2024-07,NGMPBK,Natural Gas Bakken Marketed Production,3.302099942,billion cubic feet per day
+2024-07,NGMPEF,Natural Gas Eagle Ford Marketed Production,6.969786141,billion cubic feet per day
+2024-07,NGMPHA,Natural Gas Haynesville Marketed Production,14.35862467,billion cubic feet per day
+2024-07,NGMPPM,Natural Gas Permian Marketed Production,25.31111809,billion cubic feet per day
+2024-07,NGMPR48,Natural Gas Rest of U.S. Marketed Production,25.10112028,billion cubic feet per day
+2024-07,NWCAP,Appalachia New Wells Completed,64,
+2024-07,NWCBK,Bakken New Wells Completed,87,
+2024-07,NWCEF,Eagle Ford New Wells Completed,133,
+2024-07,NWCHA,Haynesville New Wells Completed,26,
+2024-07,NWCPM,Permian New Wells Completed,592,
+2024-07,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",201,
+2024-07,NWDAP,Appalachia New Wells Drilled,69,
+2024-07,NWDBK,Bakken New Wells Drilled,71,
+2024-07,NWDEF,Eagle Ford New Wells Drilled,97,
+2024-07,NWDHA,Haynesville New Wells Drilled,35,
+2024-07,NWDPM,Permian New Wells Drilled,461,
+2024-07,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",182,
+2024-07,RIGSAP,Appalachia Active Rigs,36.5,
+2024-07,RIGSBK,Bakken Active Rigs,35.25,
+2024-07,RIGSEF,Eagle Ford Active Rigs,52,
+2024-07,RIGSHA,Haynesville Active Rigs,36.5,
+2024-07,RIGSPM,Permian Active Rigs,304.75,
+2024-07,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",91.5,
+2024-06,COPRAP,Crude Oil Production: Appalachia,.141069159,million barrels per day
+2024-06,COPRBK,Crude Oil Production: Bakken,1.230670975,million barrels per day
+2024-06,COPREF,Crude Oil Production: Eagle Ford,1.186844311,million barrels per day
+2024-06,COPRHA,Crude Oil Production: Haynesville,.028016349,million barrels per day
+2024-06,COPRPM,Crude Oil Production: Permian,6.315793869,million barrels per day
+2024-06,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.133705941,million barrels per day
+2024-06,DUCSAP,Appalachia Drilled but Uncompleted Wells ,745,
+2024-06,DUCSBK,Bakken Drilled but Uncompleted Wells ,345,
+2024-06,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,471,
+2024-06,DUCSHA,Haynesville Drilled but Uncompleted Wells ,721,
+2024-06,DUCSPM,Permian Drilled but Uncompleted Wells ,1627,
+2024-06,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2196,
+2024-06,NGMPAP,Natural Gas Appalachia Marketed Production,35.54665338,billion cubic feet per day
+2024-06,NGMPBK,Natural Gas Bakken Marketed Production,3.325065801,billion cubic feet per day
+2024-06,NGMPEF,Natural Gas Eagle Ford Marketed Production,6.972486011,billion cubic feet per day
+2024-06,NGMPHA,Natural Gas Haynesville Marketed Production,13.96186722,billion cubic feet per day
+2024-06,NGMPPM,Natural Gas Permian Marketed Production,24.95984121,billion cubic feet per day
+2024-06,NGMPR48,Natural Gas Rest of U.S. Marketed Production,25.29057337,billion cubic feet per day
+2024-06,NWCAP,Appalachia New Wells Completed,57,
+2024-06,NWCBK,Bakken New Wells Completed,78,
+2024-06,NWCEF,Eagle Ford New Wells Completed,123,
+2024-06,NWCHA,Haynesville New Wells Completed,38,
+2024-06,NWCPM,Permian New Wells Completed,482,
+2024-06,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",199,
+2024-06,NWDAP,Appalachia New Wells Drilled,68,
+2024-06,NWDBK,Bakken New Wells Drilled,70,
+2024-06,NWDEF,Eagle Ford New Wells Drilled,99,
+2024-06,NWDHA,Haynesville New Wells Drilled,35,
+2024-06,NWDPM,Permian New Wells Drilled,464,
+2024-06,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",179,
+2024-06,RIGSAP,Appalachia Active Rigs,36,
+2024-06,RIGSBK,Bakken Active Rigs,34.5,
+2024-06,RIGSEF,Eagle Ford Active Rigs,53.75,
+2024-06,RIGSHA,Haynesville Active Rigs,36.75,
+2024-06,RIGSPM,Permian Active Rigs,308,
+2024-06,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",91,
+2024-05,COPRAP,Crude Oil Production: Appalachia,.143912182,million barrels per day
+2024-05,COPRBK,Crude Oil Production: Bakken,1.243484855,million barrels per day
+2024-05,COPREF,Crude Oil Production: Eagle Ford,1.187483496,million barrels per day
+2024-05,COPRHA,Crude Oil Production: Haynesville,.028392732,million barrels per day
+2024-05,COPRPM,Crude Oil Production: Permian,6.260677676,million barrels per day
+2024-05,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.176425128,million barrels per day
+2024-05,DUCSAP,Appalachia Drilled but Uncompleted Wells ,733,
+2024-05,DUCSBK,Bakken Drilled but Uncompleted Wells ,354,
+2024-05,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,494,
+2024-05,DUCSHA,Haynesville Drilled but Uncompleted Wells ,724,
+2024-05,DUCSPM,Permian Drilled but Uncompleted Wells ,1645,
+2024-05,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2216,
+2024-05,NGMPAP,Natural Gas Appalachia Marketed Production,34.65110427,billion cubic feet per day
+2024-05,NGMPBK,Natural Gas Bakken Marketed Production,3.34386033,billion cubic feet per day
+2024-05,NGMPEF,Natural Gas Eagle Ford Marketed Production,7.26440486,billion cubic feet per day
+2024-05,NGMPHA,Natural Gas Haynesville Marketed Production,13.98155706,billion cubic feet per day
+2024-05,NGMPPM,Natural Gas Permian Marketed Production,24.29887987,billion cubic feet per day
+2024-05,NGMPR48,Natural Gas Rest of U.S. Marketed Production,25.38547661,billion cubic feet per day
+2024-05,NWCAP,Appalachia New Wells Completed,59,
+2024-05,NWCBK,Bakken New Wells Completed,102,
+2024-05,NWCEF,Eagle Ford New Wells Completed,124,
+2024-05,NWCHA,Haynesville New Wells Completed,36,
+2024-05,NWCPM,Permian New Wells Completed,524,
+2024-05,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",179,
+2024-05,NWDAP,Appalachia New Wells Drilled,73,
+2024-05,NWDBK,Bakken New Wells Drilled,69,
+2024-05,NWDEF,Eagle Ford New Wells Drilled,99,
+2024-05,NWDHA,Haynesville New Wells Drilled,34,
+2024-05,NWDPM,Permian New Wells Drilled,471,
+2024-05,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",188,
+2024-05,RIGSAP,Appalachia Active Rigs,39,
+2024-05,RIGSBK,Bakken Active Rigs,34,
+2024-05,RIGSEF,Eagle Ford Active Rigs,55.2,
+2024-05,RIGSHA,Haynesville Active Rigs,36,
+2024-05,RIGSPM,Permian Active Rigs,312.8,
+2024-05,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",97.4,
+2024-04,COPRAP,Crude Oil Production: Appalachia,.145283401,million barrels per day
+2024-04,COPRBK,Crude Oil Production: Bakken,1.28654327,million barrels per day
+2024-04,COPREF,Crude Oil Production: Eagle Ford,1.150018872,million barrels per day
+2024-04,COPRHA,Crude Oil Production: Haynesville,.02955983,million barrels per day
+2024-04,COPRPM,Crude Oil Production: Permian,6.249346785,million barrels per day
+2024-04,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.164446834,million barrels per day
+2024-04,DUCSAP,Appalachia Drilled but Uncompleted Wells ,720,
+2024-04,DUCSBK,Bakken Drilled but Uncompleted Wells ,387,
+2024-04,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,519,
+2024-04,DUCSHA,Haynesville Drilled but Uncompleted Wells ,726,
+2024-04,DUCSPM,Permian Drilled but Uncompleted Wells ,1698,
+2024-04,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2207,
+2024-04,NGMPAP,Natural Gas Appalachia Marketed Production,34.6674955,billion cubic feet per day
+2024-04,NGMPBK,Natural Gas Bakken Marketed Production,3.31670986,billion cubic feet per day
+2024-04,NGMPEF,Natural Gas Eagle Ford Marketed Production,6.778107246,billion cubic feet per day
+2024-04,NGMPHA,Natural Gas Haynesville Marketed Production,14.52259101,billion cubic feet per day
+2024-04,NGMPPM,Natural Gas Permian Marketed Production,24.11340077,billion cubic feet per day
+2024-04,NGMPR48,Natural Gas Rest of U.S. Marketed Production,25.38612362,billion cubic feet per day
+2024-04,NWCAP,Appalachia New Wells Completed,72,
+2024-04,NWCBK,Bakken New Wells Completed,74,
+2024-04,NWCEF,Eagle Ford New Wells Completed,136,
+2024-04,NWCHA,Haynesville New Wells Completed,41,
+2024-04,NWCPM,Permian New Wells Completed,555,
+2024-04,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",176,
+2024-04,NWDAP,Appalachia New Wells Drilled,76,
+2024-04,NWDBK,Bakken New Wells Drilled,69,
+2024-04,NWDEF,Eagle Ford New Wells Drilled,102,
+2024-04,NWDHA,Haynesville New Wells Drilled,34,
+2024-04,NWDPM,Permian New Wells Drilled,475,
+2024-04,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",195,
+2024-04,RIGSAP,Appalachia Active Rigs,41.25,
+2024-04,RIGSBK,Bakken Active Rigs,34,
+2024-04,RIGSEF,Eagle Ford Active Rigs,59.25,
+2024-04,RIGSHA,Haynesville Active Rigs,35,
+2024-04,RIGSPM,Permian Active Rigs,317,
+2024-04,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",99.75,
+2024-03,COPRAP,Crude Oil Production: Appalachia,.132853814,million barrels per day
+2024-03,COPRBK,Crude Oil Production: Bakken,1.27336004,million barrels per day
+2024-03,COPREF,Crude Oil Production: Eagle Ford,1.104605968,million barrels per day
+2024-03,COPRHA,Crude Oil Production: Haynesville,.030323124,million barrels per day
+2024-03,COPRPM,Crude Oil Production: Permian,6.253700278,million barrels per day
+2024-03,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.163562161,million barrels per day
+2024-03,DUCSAP,Appalachia Drilled but Uncompleted Wells ,715,
+2024-03,DUCSBK,Bakken Drilled but Uncompleted Wells ,392,
+2024-03,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,552,
+2024-03,DUCSHA,Haynesville Drilled but Uncompleted Wells ,733,
+2024-03,DUCSPM,Permian Drilled but Uncompleted Wells ,1778,
+2024-03,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2189,
+2024-03,NGMPAP,Natural Gas Appalachia Marketed Production,34.52921923,billion cubic feet per day
+2024-03,NGMPBK,Natural Gas Bakken Marketed Production,3.229125105,billion cubic feet per day
+2024-03,NGMPEF,Natural Gas Eagle Ford Marketed Production,6.993409571,billion cubic feet per day
+2024-03,NGMPHA,Natural Gas Haynesville Marketed Production,15.36026515,billion cubic feet per day
+2024-03,NGMPPM,Natural Gas Permian Marketed Production,24.06692417,billion cubic feet per day
+2024-03,NGMPR48,Natural Gas Rest of U.S. Marketed Production,25.43703578,billion cubic feet per day
+2024-03,NWCAP,Appalachia New Wells Completed,76,
+2024-03,NWCBK,Bakken New Wells Completed,57,
+2024-03,NWCEF,Eagle Ford New Wells Completed,132,
+2024-03,NWCHA,Haynesville New Wells Completed,37,
+2024-03,NWCPM,Permian New Wells Completed,517,
+2024-03,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",194,
+2024-03,NWDAP,Appalachia New Wells Drilled,81,
+2024-03,NWDBK,Bakken New Wells Drilled,69,
+2024-03,NWDEF,Eagle Ford New Wells Drilled,101,
+2024-03,NWDHA,Haynesville New Wells Drilled,38,
+2024-03,NWDPM,Permian New Wells Drilled,472,
+2024-03,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",199,
+2024-03,RIGSAP,Appalachia Active Rigs,43,
+2024-03,RIGSBK,Bakken Active Rigs,34,
+2024-03,RIGSEF,Eagle Ford Active Rigs,58.2,
+2024-03,RIGSHA,Haynesville Active Rigs,39.6,
+2024-03,RIGSPM,Permian Active Rigs,315,
+2024-03,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",102,
+2024-02,COPRAP,Crude Oil Production: Appalachia,.134845723,million barrels per day
+2024-02,COPRBK,Crude Oil Production: Bakken,1.293023391,million barrels per day
+2024-02,COPREF,Crude Oil Production: Eagle Ford,1.085165898,million barrels per day
+2024-02,COPRHA,Crude Oil Production: Haynesville,.031030947,million barrels per day
+2024-02,COPRPM,Crude Oil Production: Permian,6.166826593,million barrels per day
+2024-02,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.177249759,million barrels per day
+2024-02,DUCSAP,Appalachia Drilled but Uncompleted Wells ,711,
+2024-02,DUCSBK,Bakken Drilled but Uncompleted Wells ,381,
+2024-02,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,584,
+2024-02,DUCSHA,Haynesville Drilled but Uncompleted Wells ,732,
+2024-02,DUCSPM,Permian Drilled but Uncompleted Wells ,1824,
+2024-02,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2184,
+2024-02,NGMPAP,Natural Gas Appalachia Marketed Production,36.79602953,billion cubic feet per day
+2024-02,NGMPBK,Natural Gas Bakken Marketed Production,3.289309301,billion cubic feet per day
+2024-02,NGMPEF,Natural Gas Eagle Ford Marketed Production,7.077134698,billion cubic feet per day
+2024-02,NGMPHA,Natural Gas Haynesville Marketed Production,15.96716407,billion cubic feet per day
+2024-02,NGMPPM,Natural Gas Permian Marketed Production,23.72243907,billion cubic feet per day
+2024-02,NGMPR48,Natural Gas Rest of U.S. Marketed Production,25.64278033,billion cubic feet per day
+2024-02,NWCAP,Appalachia New Wells Completed,73,
+2024-02,NWCBK,Bakken New Wells Completed,67,
+2024-02,NWCEF,Eagle Ford New Wells Completed,136,
+2024-02,NWCHA,Haynesville New Wells Completed,40,
+2024-02,NWCPM,Permian New Wells Completed,551,
+2024-02,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",184,
+2024-02,NWDAP,Appalachia New Wells Drilled,81,
+2024-02,NWDBK,Bakken New Wells Drilled,69,
+2024-02,NWDEF,Eagle Ford New Wells Drilled,97,
+2024-02,NWDHA,Haynesville New Wells Drilled,42,
+2024-02,NWDPM,Permian New Wells Drilled,467,
+2024-02,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",206,
+2024-02,RIGSAP,Appalachia Active Rigs,43.25,
+2024-02,RIGSBK,Bakken Active Rigs,34,
+2024-02,RIGSEF,Eagle Ford Active Rigs,56.25,
+2024-02,RIGSHA,Haynesville Active Rigs,44.5,
+2024-02,RIGSPM,Permian Active Rigs,312.5,
+2024-02,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",103.75,
+2024-01,COPRAP,Crude Oil Production: Appalachia,.139112913,million barrels per day
+2024-01,COPRBK,Crude Oil Production: Bakken,1.137885429,million barrels per day
+2024-01,COPREF,Crude Oil Production: Eagle Ford,1.034919848,million barrels per day
+2024-01,COPRHA,Crude Oil Production: Haynesville,.028947108,million barrels per day
+2024-01,COPRPM,Crude Oil Production: Permian,5.93048235,million barrels per day
+2024-01,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.072899124,million barrels per day
+2024-01,DUCSAP,Appalachia Drilled but Uncompleted Wells ,703,
+2024-01,DUCSBK,Bakken Drilled but Uncompleted Wells ,379,
+2024-01,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,623,
+2024-01,DUCSHA,Haynesville Drilled but Uncompleted Wells ,730,
+2024-01,DUCSPM,Permian Drilled but Uncompleted Wells ,1907,
+2024-01,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2162,
+2024-01,NGMPAP,Natural Gas Appalachia Marketed Production,36.55336868,billion cubic feet per day
+2024-01,NGMPBK,Natural Gas Bakken Marketed Production,2.929062374,billion cubic feet per day
+2024-01,NGMPEF,Natural Gas Eagle Ford Marketed Production,6.814036973,billion cubic feet per day
+2024-01,NGMPHA,Natural Gas Haynesville Marketed Production,15.50204397,billion cubic feet per day
+2024-01,NGMPPM,Natural Gas Permian Marketed Production,22.60336086,billion cubic feet per day
+2024-01,NGMPR48,Natural Gas Rest of U.S. Marketed Production,24.81261414,billion cubic feet per day
+2024-01,NWCAP,Appalachia New Wells Completed,61,
+2024-01,NWCBK,Bakken New Wells Completed,40,
+2024-01,NWCEF,Eagle Ford New Wells Completed,134,
+2024-01,NWCHA,Haynesville New Wells Completed,37,
+2024-01,NWCPM,Permian New Wells Completed,495,
+2024-01,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",181,
+2024-01,NWDAP,Appalachia New Wells Drilled,76,
+2024-01,NWDBK,Bakken New Wells Drilled,68,
+2024-01,NWDEF,Eagle Ford New Wells Drilled,98,
+2024-01,NWDHA,Haynesville New Wells Drilled,44,
+2024-01,NWDPM,Permian New Wells Drilled,465,
+2024-01,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",208,
+2024-01,RIGSAP,Appalachia Active Rigs,41,
+2024-01,RIGSBK,Bakken Active Rigs,33.5,
+2024-01,RIGSEF,Eagle Ford Active Rigs,57,
+2024-01,RIGSHA,Haynesville Active Rigs,46,
+2024-01,RIGSPM,Permian Active Rigs,309.25,
+2024-01,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",105.75,
+2023-12,COPRAP,Crude Oil Production: Appalachia,.14645716,million barrels per day
+2023-12,COPRBK,Crude Oil Production: Bakken,1.31211051,million barrels per day
+2023-12,COPREF,Crude Oil Production: Eagle Ford,1.078548582,million barrels per day
+2023-12,COPRHA,Crude Oil Production: Haynesville,.032342108,million barrels per day
+2023-12,COPRPM,Crude Oil Production: Permian,6.224966574,million barrels per day
+2023-12,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.223709567,million barrels per day
+2023-12,DUCSAP,Appalachia Drilled but Uncompleted Wells ,688,
+2023-12,DUCSBK,Bakken Drilled but Uncompleted Wells ,351,
+2023-12,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,659,
+2023-12,DUCSHA,Haynesville Drilled but Uncompleted Wells ,723,
+2023-12,DUCSPM,Permian Drilled but Uncompleted Wells ,1937,
+2023-12,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2135,
+2023-12,NGMPAP,Natural Gas Appalachia Marketed Production,36.60992214,billion cubic feet per day
+2023-12,NGMPBK,Natural Gas Bakken Marketed Production,3.403103161,billion cubic feet per day
+2023-12,NGMPEF,Natural Gas Eagle Ford Marketed Production,6.810724499,billion cubic feet per day
+2023-12,NGMPHA,Natural Gas Haynesville Marketed Production,15.36093596,billion cubic feet per day
+2023-12,NGMPPM,Natural Gas Permian Marketed Production,24.48093264,billion cubic feet per day
+2023-12,NGMPR48,Natural Gas Rest of U.S. Marketed Production,25.28244612,billion cubic feet per day
+2023-12,NWCAP,Appalachia New Wells Completed,49,
+2023-12,NWCBK,Bakken New Wells Completed,77,
+2023-12,NWCEF,Eagle Ford New Wells Completed,66,
+2023-12,NWCHA,Haynesville New Wells Completed,38,
+2023-12,NWCPM,Permian New Wells Completed,454,
+2023-12,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",193,
+2023-12,NWDAP,Appalachia New Wells Drilled,75,
+2023-12,NWDBK,Bakken New Wells Drilled,65,
+2023-12,NWDEF,Eagle Ford New Wells Drilled,96,
+2023-12,NWDHA,Haynesville New Wells Drilled,45,
+2023-12,NWDPM,Permian New Wells Drilled,462,
+2023-12,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",219,
+2023-12,RIGSAP,Appalachia Active Rigs,40.6,
+2023-12,RIGSBK,Bakken Active Rigs,32.4,
+2023-12,RIGSEF,Eagle Ford Active Rigs,55.2,
+2023-12,RIGSHA,Haynesville Active Rigs,47.6,
+2023-12,RIGSPM,Permian Active Rigs,310.6,
+2023-12,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",108.4,
+2023-11,COPRAP,Crude Oil Production: Appalachia,.153334288,million barrels per day
+2023-11,COPRBK,Crude Oil Production: Bakken,1.316826908,million barrels per day
+2023-11,COPREF,Crude Oil Production: Eagle Ford,1.12790063,million barrels per day
+2023-11,COPRHA,Crude Oil Production: Haynesville,.031741647,million barrels per day
+2023-11,COPRPM,Crude Oil Production: Permian,6.174939991,million barrels per day
+2023-11,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.231934015,million barrels per day
+2023-11,DUCSAP,Appalachia Drilled but Uncompleted Wells ,662,
+2023-11,DUCSBK,Bakken Drilled but Uncompleted Wells ,363,
+2023-11,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,629,
+2023-11,DUCSHA,Haynesville Drilled but Uncompleted Wells ,715,
+2023-11,DUCSPM,Permian Drilled but Uncompleted Wells ,1929,
+2023-11,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2108,
+2023-11,NGMPAP,Natural Gas Appalachia Marketed Production,36.49949639,billion cubic feet per day
+2023-11,NGMPBK,Natural Gas Bakken Marketed Production,3.32737107,billion cubic feet per day
+2023-11,NGMPEF,Natural Gas Eagle Ford Marketed Production,6.798274912,billion cubic feet per day
+2023-11,NGMPHA,Natural Gas Haynesville Marketed Production,16.07432685,billion cubic feet per day
+2023-11,NGMPPM,Natural Gas Permian Marketed Production,23.92712176,billion cubic feet per day
+2023-11,NGMPR48,Natural Gas Rest of U.S. Marketed Production,25.40444236,billion cubic feet per day
+2023-11,NWCAP,Appalachia New Wells Completed,65,
+2023-11,NWCBK,Bakken New Wells Completed,79,
+2023-11,NWCEF,Eagle Ford New Wells Completed,119,
+2023-11,NWCHA,Haynesville New Wells Completed,46,
+2023-11,NWCPM,Permian New Wells Completed,453,
+2023-11,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",200,
+2023-11,NWDAP,Appalachia New Wells Drilled,73,
+2023-11,NWDBK,Bakken New Wells Drilled,65,
+2023-11,NWDEF,Eagle Ford New Wells Drilled,94,
+2023-11,NWDHA,Haynesville New Wells Drilled,43,
+2023-11,NWDPM,Permian New Wells Drilled,463,
+2023-11,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",224,
+2023-11,RIGSAP,Appalachia Active Rigs,39.75,
+2023-11,RIGSBK,Bakken Active Rigs,32.5,
+2023-11,RIGSEF,Eagle Ford Active Rigs,55,
+2023-11,RIGSHA,Haynesville Active Rigs,44,
+2023-11,RIGSPM,Permian Active Rigs,310.5,
+2023-11,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",107.5,
+2023-10,COPRAP,Crude Oil Production: Appalachia,.155641337,million barrels per day
+2023-10,COPRBK,Crude Oil Production: Bakken,1.291491151,million barrels per day
+2023-10,COPREF,Crude Oil Production: Eagle Ford,1.145465368,million barrels per day
+2023-10,COPRHA,Crude Oil Production: Haynesville,.031285732,million barrels per day
+2023-10,COPRPM,Crude Oil Production: Permian,5.988147559,million barrels per day
+2023-10,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.24076601,million barrels per day
+2023-10,DUCSAP,Appalachia Drilled but Uncompleted Wells ,654,
+2023-10,DUCSBK,Bakken Drilled but Uncompleted Wells ,376,
+2023-10,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,654,
+2023-10,DUCSHA,Haynesville Drilled but Uncompleted Wells ,718,
+2023-10,DUCSPM,Permian Drilled but Uncompleted Wells ,1918,
+2023-10,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2082,
+2023-10,NGMPAP,Natural Gas Appalachia Marketed Production,35.34523628,billion cubic feet per day
+2023-10,NGMPBK,Natural Gas Bakken Marketed Production,3.275184699,billion cubic feet per day
+2023-10,NGMPEF,Natural Gas Eagle Ford Marketed Production,6.774020471,billion cubic feet per day
+2023-10,NGMPHA,Natural Gas Haynesville Marketed Production,16.31481844,billion cubic feet per day
+2023-10,NGMPPM,Natural Gas Permian Marketed Production,23.38802051,billion cubic feet per day
+2023-10,NGMPR48,Natural Gas Rest of U.S. Marketed Production,25.30859057,billion cubic feet per day
+2023-10,NWCAP,Appalachia New Wells Completed,74,
+2023-10,NWCBK,Bakken New Wells Completed,60,
+2023-10,NWCEF,Eagle Ford New Wells Completed,125,
+2023-10,NWCHA,Haynesville New Wells Completed,44,
+2023-10,NWCPM,Permian New Wells Completed,565,
+2023-10,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",260,
+2023-10,NWDAP,Appalachia New Wells Drilled,71,
+2023-10,NWDBK,Bakken New Wells Drilled,65,
+2023-10,NWDEF,Eagle Ford New Wells Drilled,93,
+2023-10,NWDHA,Haynesville New Wells Drilled,45,
+2023-10,NWDPM,Permian New Wells Drilled,465,
+2023-10,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",227,
+2023-10,RIGSAP,Appalachia Active Rigs,39,
+2023-10,RIGSBK,Bakken Active Rigs,32.75,
+2023-10,RIGSEF,Eagle Ford Active Rigs,55.25,
+2023-10,RIGSHA,Haynesville Active Rigs,45.25,
+2023-10,RIGSPM,Permian Active Rigs,311.25,
+2023-10,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",106.75,
+2023-09,COPRAP,Crude Oil Production: Appalachia,.135112244,million barrels per day
+2023-09,COPRBK,Crude Oil Production: Bakken,1.324751745,million barrels per day
+2023-09,COPREF,Crude Oil Production: Eagle Ford,1.182562826,million barrels per day
+2023-09,COPRHA,Crude Oil Production: Haynesville,.029756474,million barrels per day
+2023-09,COPRPM,Crude Oil Production: Permian,5.927075483,million barrels per day
+2023-09,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.189020745,million barrels per day
+2023-09,DUCSAP,Appalachia Drilled but Uncompleted Wells ,656,
+2023-09,DUCSBK,Bakken Drilled but Uncompleted Wells ,371,
+2023-09,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,686,
+2023-09,DUCSHA,Haynesville Drilled but Uncompleted Wells ,717,
+2023-09,DUCSPM,Permian Drilled but Uncompleted Wells ,2018,
+2023-09,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2116,
+2023-09,NGMPAP,Natural Gas Appalachia Marketed Production,35.12757696,billion cubic feet per day
+2023-09,NGMPBK,Natural Gas Bakken Marketed Production,3.316950387,billion cubic feet per day
+2023-09,NGMPEF,Natural Gas Eagle Ford Marketed Production,6.784201871,billion cubic feet per day
+2023-09,NGMPHA,Natural Gas Haynesville Marketed Production,16.6582103,billion cubic feet per day
+2023-09,NGMPPM,Natural Gas Permian Marketed Production,23.35192144,billion cubic feet per day
+2023-09,NGMPR48,Natural Gas Rest of U.S. Marketed Production,25.24177238,billion cubic feet per day
+2023-09,NWCAP,Appalachia New Wells Completed,80,
+2023-09,NWCBK,Bakken New Wells Completed,87,
+2023-09,NWCEF,Eagle Ford New Wells Completed,111,
+2023-09,NWCHA,Haynesville New Wells Completed,53,
+2023-09,NWCPM,Permian New Wells Completed,477,
+2023-09,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",283,
+2023-09,NWDAP,Appalachia New Wells Drilled,74,
+2023-09,NWDBK,Bakken New Wells Drilled,64,
+2023-09,NWDEF,Eagle Ford New Wells Drilled,93,
+2023-09,NWDHA,Haynesville New Wells Drilled,47,
+2023-09,NWDPM,Permian New Wells Drilled,476,
+2023-09,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",239,
+2023-09,RIGSAP,Appalachia Active Rigs,40,
+2023-09,RIGSBK,Bakken Active Rigs,32.4,
+2023-09,RIGSEF,Eagle Ford Active Rigs,53.2,
+2023-09,RIGSHA,Haynesville Active Rigs,47.2,
+2023-09,RIGSPM,Permian Active Rigs,318,
+2023-09,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",110.6,
+2023-08,COPRAP,Crude Oil Production: Appalachia,.137957958,million barrels per day
+2023-08,COPRBK,Crude Oil Production: Bakken,1.243982734,million barrels per day
+2023-08,COPREF,Crude Oil Production: Eagle Ford,1.173433651,million barrels per day
+2023-08,COPRHA,Crude Oil Production: Haynesville,.030030652,million barrels per day
+2023-08,COPRPM,Crude Oil Production: Permian,5.942560036,million barrels per day
+2023-08,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.198960126,million barrels per day
+2023-08,DUCSAP,Appalachia Drilled but Uncompleted Wells ,662,
+2023-08,DUCSBK,Bakken Drilled but Uncompleted Wells ,394,
+2023-08,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,704,
+2023-08,DUCSHA,Haynesville Drilled but Uncompleted Wells ,723,
+2023-08,DUCSPM,Permian Drilled but Uncompleted Wells ,2019,
+2023-08,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2160,
+2023-08,NGMPAP,Natural Gas Appalachia Marketed Production,35.49674636,billion cubic feet per day
+2023-08,NGMPBK,Natural Gas Bakken Marketed Production,3.220235502,billion cubic feet per day
+2023-08,NGMPEF,Natural Gas Eagle Ford Marketed Production,6.648907487,billion cubic feet per day
+2023-08,NGMPHA,Natural Gas Haynesville Marketed Production,16.73208768,billion cubic feet per day
+2023-08,NGMPPM,Natural Gas Permian Marketed Production,23.26273537,billion cubic feet per day
+2023-08,NGMPR48,Natural Gas Rest of U.S. Marketed Production,25.1649005,billion cubic feet per day
+2023-08,NWCAP,Appalachia New Wells Completed,50,
+2023-08,NWCBK,Bakken New Wells Completed,104,
+2023-08,NWCEF,Eagle Ford New Wells Completed,125,
+2023-08,NWCHA,Haynesville New Wells Completed,39,
+2023-08,NWCPM,Permian New Wells Completed,522,
+2023-08,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",225,
+2023-08,NWDAP,Appalachia New Wells Drilled,80,
+2023-08,NWDBK,Bakken New Wells Drilled,68,
+2023-08,NWDEF,Eagle Ford New Wells Drilled,93,
+2023-08,NWDHA,Haynesville New Wells Drilled,50,
+2023-08,NWDPM,Permian New Wells Drilled,482,
+2023-08,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",241,
+2023-08,RIGSAP,Appalachia Active Rigs,42.5,
+2023-08,RIGSBK,Bakken Active Rigs,34,
+2023-08,RIGSEF,Eagle Ford Active Rigs,54.75,
+2023-08,RIGSHA,Haynesville Active Rigs,50,
+2023-08,RIGSPM,Permian Active Rigs,324.25,
+2023-08,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",110.75,
+2023-07,COPRAP,Crude Oil Production: Appalachia,.136948284,million barrels per day
+2023-07,COPRBK,Crude Oil Production: Bakken,1.204372496,million barrels per day
+2023-07,COPREF,Crude Oil Production: Eagle Ford,1.188278238,million barrels per day
+2023-07,COPRHA,Crude Oil Production: Haynesville,.030032163,million barrels per day
+2023-07,COPRPM,Crude Oil Production: Permian,5.856944557,million barrels per day
+2023-07,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.17319051,million barrels per day
+2023-07,DUCSAP,Appalachia Drilled but Uncompleted Wells ,632,
+2023-07,DUCSBK,Bakken Drilled but Uncompleted Wells ,430,
+2023-07,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,736,
+2023-07,DUCSHA,Haynesville Drilled but Uncompleted Wells ,712,
+2023-07,DUCSPM,Permian Drilled but Uncompleted Wells ,2059,
+2023-07,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2143,
+2023-07,NGMPAP,Natural Gas Appalachia Marketed Production,35.51612412,billion cubic feet per day
+2023-07,NGMPBK,Natural Gas Bakken Marketed Production,3.203366334,billion cubic feet per day
+2023-07,NGMPEF,Natural Gas Eagle Ford Marketed Production,6.675350464,billion cubic feet per day
+2023-07,NGMPHA,Natural Gas Haynesville Marketed Production,16.65499848,billion cubic feet per day
+2023-07,NGMPPM,Natural Gas Permian Marketed Production,22.69977342,billion cubic feet per day
+2023-07,NGMPR48,Natural Gas Rest of U.S. Marketed Production,24.95077428,billion cubic feet per day
+2023-07,NWCAP,Appalachia New Wells Completed,89,
+2023-07,NWCBK,Bakken New Wells Completed,115,
+2023-07,NWCEF,Eagle Ford New Wells Completed,135,
+2023-07,NWCHA,Haynesville New Wells Completed,46,
+2023-07,NWCPM,Permian New Wells Completed,529,
+2023-07,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",226,
+2023-07,NWDAP,Appalachia New Wells Drilled,89,
+2023-07,NWDBK,Bakken New Wells Drilled,70,
+2023-07,NWDEF,Eagle Ford New Wells Drilled,99,
+2023-07,NWDHA,Haynesville New Wells Drilled,51,
+2023-07,NWDPM,Permian New Wells Drilled,493,
+2023-07,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",243,
+2023-07,RIGSAP,Appalachia Active Rigs,47.5,
+2023-07,RIGSBK,Bakken Active Rigs,34.75,
+2023-07,RIGSEF,Eagle Ford Active Rigs,58.25,
+2023-07,RIGSHA,Haynesville Active Rigs,50.75,
+2023-07,RIGSPM,Permian Active Rigs,334.5,
+2023-07,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",114.5,
+2023-06,COPRAP,Crude Oil Production: Appalachia,.146468468,million barrels per day
+2023-06,COPRBK,Crude Oil Production: Bakken,1.194345755,million barrels per day
+2023-06,COPREF,Crude Oil Production: Eagle Ford,1.18390072,million barrels per day
+2023-06,COPRHA,Crude Oil Production: Haynesville,.029173762,million barrels per day
+2023-06,COPRPM,Crude Oil Production: Permian,5.770154132,million barrels per day
+2023-06,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.195167613,million barrels per day
+2023-06,DUCSAP,Appalachia Drilled but Uncompleted Wells ,633,
+2023-06,DUCSBK,Bakken Drilled but Uncompleted Wells ,475,
+2023-06,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,772,
+2023-06,DUCSHA,Haynesville Drilled but Uncompleted Wells ,706,
+2023-06,DUCSPM,Permian Drilled but Uncompleted Wells ,2095,
+2023-06,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2126,
+2023-06,NGMPAP,Natural Gas Appalachia Marketed Production,35.41413975,billion cubic feet per day
+2023-06,NGMPBK,Natural Gas Bakken Marketed Production,3.114381926,billion cubic feet per day
+2023-06,NGMPEF,Natural Gas Eagle Ford Marketed Production,6.688237469,billion cubic feet per day
+2023-06,NGMPHA,Natural Gas Haynesville Marketed Production,16.56043123,billion cubic feet per day
+2023-06,NGMPPM,Natural Gas Permian Marketed Production,22.40258751,billion cubic feet per day
+2023-06,NGMPR48,Natural Gas Rest of U.S. Marketed Production,25.27698877,billion cubic feet per day
+2023-06,NWCAP,Appalachia New Wells Completed,78,
+2023-06,NWCBK,Bakken New Wells Completed,112,
+2023-06,NWCEF,Eagle Ford New Wells Completed,147,
+2023-06,NWCHA,Haynesville New Wells Completed,33,
+2023-06,NWCPM,Permian New Wells Completed,471,
+2023-06,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",272,
+2023-06,NWDAP,Appalachia New Wells Drilled,90,
+2023-06,NWDBK,Bakken New Wells Drilled,70,
+2023-06,NWDEF,Eagle Ford New Wells Drilled,103,
+2023-06,NWDHA,Haynesville New Wells Drilled,56,
+2023-06,NWDPM,Permian New Wells Drilled,505,
+2023-06,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",242,
+2023-06,RIGSAP,Appalachia Active Rigs,48.4,
+2023-06,RIGSBK,Bakken Active Rigs,35.4,
+2023-06,RIGSEF,Eagle Ford Active Rigs,60.6,
+2023-06,RIGSHA,Haynesville Active Rigs,55.6,
+2023-06,RIGSPM,Permian Active Rigs,341.6,
+2023-06,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",116.4,
+2023-05,COPRAP,Crude Oil Production: Appalachia,.144681739,million barrels per day
+2023-05,COPRBK,Crude Oil Production: Bakken,1.161856106,million barrels per day
+2023-05,COPREF,Crude Oil Production: Eagle Ford,1.186004138,million barrels per day
+2023-05,COPRHA,Crude Oil Production: Haynesville,.032675622,million barrels per day
+2023-05,COPRPM,Crude Oil Production: Permian,5.86110528,million barrels per day
+2023-05,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.19500125,million barrels per day
+2023-05,DUCSAP,Appalachia Drilled but Uncompleted Wells ,621,
+2023-05,DUCSBK,Bakken Drilled but Uncompleted Wells ,518,
+2023-05,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,815,
+2023-05,DUCSHA,Haynesville Drilled but Uncompleted Wells ,683,
+2023-05,DUCSPM,Permian Drilled but Uncompleted Wells ,2061,
+2023-05,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2156,
+2023-05,NGMPAP,Natural Gas Appalachia Marketed Production,35.16506471,billion cubic feet per day
+2023-05,NGMPBK,Natural Gas Bakken Marketed Production,3.035405497,billion cubic feet per day
+2023-05,NGMPEF,Natural Gas Eagle Ford Marketed Production,6.668226918,billion cubic feet per day
+2023-05,NGMPHA,Natural Gas Haynesville Marketed Production,17.28387955,billion cubic feet per day
+2023-05,NGMPPM,Natural Gas Permian Marketed Production,22.60566327,billion cubic feet per day
+2023-05,NGMPR48,Natural Gas Rest of U.S. Marketed Production,25.12540522,billion cubic feet per day
+2023-05,NWCAP,Appalachia New Wells Completed,79,
+2023-05,NWCBK,Bakken New Wells Completed,99,
+2023-05,NWCEF,Eagle Ford New Wells Completed,128,
+2023-05,NWCHA,Haynesville New Wells Completed,41,
+2023-05,NWCPM,Permian New Wells Completed,561,
+2023-05,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",257,
+2023-05,NWDAP,Appalachia New Wells Drilled,94,
+2023-05,NWDBK,Bakken New Wells Drilled,74,
+2023-05,NWDEF,Eagle Ford New Wells Drilled,106,
+2023-05,NWDHA,Haynesville New Wells Drilled,65,
+2023-05,NWDPM,Permian New Wells Drilled,518,
+2023-05,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",265,
+2023-05,RIGSAP,Appalachia Active Rigs,50,
+2023-05,RIGSBK,Bakken Active Rigs,37.25,
+2023-05,RIGSEF,Eagle Ford Active Rigs,65.75,
+2023-05,RIGSHA,Haynesville Active Rigs,64.25,
+2023-05,RIGSPM,Permian Active Rigs,349.25,
+2023-05,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",130.5,
+2023-04,COPRAP,Crude Oil Production: Appalachia,.143487401,million barrels per day
+2023-04,COPRBK,Crude Oil Production: Bakken,1.158359888,million barrels per day
+2023-04,COPREF,Crude Oil Production: Eagle Ford,1.162956887,million barrels per day
+2023-04,COPRHA,Crude Oil Production: Haynesville,.032626899,million barrels per day
+2023-04,COPRPM,Crude Oil Production: Permian,5.893941759,million barrels per day
+2023-04,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.158790665,million barrels per day
+2023-04,DUCSAP,Appalachia Drilled but Uncompleted Wells ,606,
+2023-04,DUCSBK,Bakken Drilled but Uncompleted Wells ,543,
+2023-04,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,837,
+2023-04,DUCSHA,Haynesville Drilled but Uncompleted Wells ,659,
+2023-04,DUCSPM,Permian Drilled but Uncompleted Wells ,2104,
+2023-04,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2149,
+2023-04,NGMPAP,Natural Gas Appalachia Marketed Production,34.86063175,billion cubic feet per day
+2023-04,NGMPBK,Natural Gas Bakken Marketed Production,3.002126305,billion cubic feet per day
+2023-04,NGMPEF,Natural Gas Eagle Ford Marketed Production,6.489024297,billion cubic feet per day
+2023-04,NGMPHA,Natural Gas Haynesville Marketed Production,16.45017793,billion cubic feet per day
+2023-04,NGMPPM,Natural Gas Permian Marketed Production,22.5110196,billion cubic feet per day
+2023-04,NGMPR48,Natural Gas Rest of U.S. Marketed Production,25.09755344,billion cubic feet per day
+2023-04,NWCAP,Appalachia New Wells Completed,87,
+2023-04,NWCBK,Bakken New Wells Completed,100,
+2023-04,NWCEF,Eagle Ford New Wells Completed,147,
+2023-04,NWCHA,Haynesville New Wells Completed,57,
+2023-04,NWCPM,Permian New Wells Completed,540,
+2023-04,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",281,
+2023-04,NWDAP,Appalachia New Wells Drilled,96,
+2023-04,NWDBK,Bakken New Wells Drilled,79,
+2023-04,NWDEF,Eagle Ford New Wells Drilled,114,
+2023-04,NWDHA,Haynesville New Wells Drilled,71,
+2023-04,NWDPM,Permian New Wells Drilled,526,
+2023-04,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",266,
+2023-04,RIGSAP,Appalachia Active Rigs,51.5,
+2023-04,RIGSBK,Bakken Active Rigs,39.75,
+2023-04,RIGSEF,Eagle Ford Active Rigs,73.25,
+2023-04,RIGSHA,Haynesville Active Rigs,70.25,
+2023-04,RIGSPM,Permian Active Rigs,355.5,
+2023-04,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",133.25,
+2023-03,COPRAP,Crude Oil Production: Appalachia,.142424332,million barrels per day
+2023-03,COPRBK,Crude Oil Production: Bakken,1.151359064,million barrels per day
+2023-03,COPREF,Crude Oil Production: Eagle Ford,1.181166295,million barrels per day
+2023-03,COPRHA,Crude Oil Production: Haynesville,.033353069,million barrels per day
+2023-03,COPRPM,Crude Oil Production: Permian,5.905453951,million barrels per day
+2023-03,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.141280392,million barrels per day
+2023-03,DUCSAP,Appalachia Drilled but Uncompleted Wells ,597,
+2023-03,DUCSBK,Bakken Drilled but Uncompleted Wells ,564,
+2023-03,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,870,
+2023-03,DUCSHA,Haynesville Drilled but Uncompleted Wells ,645,
+2023-03,DUCSPM,Permian Drilled but Uncompleted Wells ,2118,
+2023-03,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2164,
+2023-03,NGMPAP,Natural Gas Appalachia Marketed Production,35.35505878,billion cubic feet per day
+2023-03,NGMPBK,Natural Gas Bakken Marketed Production,2.93719347,billion cubic feet per day
+2023-03,NGMPEF,Natural Gas Eagle Ford Marketed Production,6.662130506,billion cubic feet per day
+2023-03,NGMPHA,Natural Gas Haynesville Marketed Production,16.59025612,billion cubic feet per day
+2023-03,NGMPPM,Natural Gas Permian Marketed Production,22.30759617,billion cubic feet per day
+2023-03,NGMPR48,Natural Gas Rest of U.S. Marketed Production,25.42408753,billion cubic feet per day
+2023-03,NWCAP,Appalachia New Wells Completed,90,
+2023-03,NWCBK,Bakken New Wells Completed,86,
+2023-03,NWCEF,Eagle Ford New Wells Completed,162,
+2023-03,NWCHA,Haynesville New Wells Completed,64,
+2023-03,NWCPM,Permian New Wells Completed,587,
+2023-03,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",255,
+2023-03,NWDAP,Appalachia New Wells Drilled,94,
+2023-03,NWDBK,Bakken New Wells Drilled,80,
+2023-03,NWDEF,Eagle Ford New Wells Drilled,117,
+2023-03,NWDHA,Haynesville New Wells Drilled,74,
+2023-03,NWDPM,Permian New Wells Drilled,521,
+2023-03,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",265,
+2023-03,RIGSAP,Appalachia Active Rigs,50.8,
+2023-03,RIGSBK,Bakken Active Rigs,41,
+2023-03,RIGSEF,Eagle Ford Active Rigs,77.4,
+2023-03,RIGSHA,Haynesville Active Rigs,72.4,
+2023-03,RIGSPM,Permian Active Rigs,349.4,
+2023-03,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",136.2,
+2023-02,COPRAP,Crude Oil Production: Appalachia,.144966059,million barrels per day
+2023-02,COPRBK,Crude Oil Production: Bakken,1.184742516,million barrels per day
+2023-02,COPREF,Crude Oil Production: Eagle Ford,1.138568391,million barrels per day
+2023-02,COPRHA,Crude Oil Production: Haynesville,.033954834,million barrels per day
+2023-02,COPRPM,Crude Oil Production: Permian,5.736059008,million barrels per day
+2023-02,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.082847049,million barrels per day
+2023-02,DUCSAP,Appalachia Drilled but Uncompleted Wells ,593,
+2023-02,DUCSBK,Bakken Drilled but Uncompleted Wells ,569,
+2023-02,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,916,
+2023-02,DUCSHA,Haynesville Drilled but Uncompleted Wells ,635,
+2023-02,DUCSPM,Permian Drilled but Uncompleted Wells ,2184,
+2023-02,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2153,
+2023-02,NGMPAP,Natural Gas Appalachia Marketed Production,35.13875203,billion cubic feet per day
+2023-02,NGMPBK,Natural Gas Bakken Marketed Production,2.908972003,billion cubic feet per day
+2023-02,NGMPEF,Natural Gas Eagle Ford Marketed Production,6.535519515,billion cubic feet per day
+2023-02,NGMPHA,Natural Gas Haynesville Marketed Production,16.97615683,billion cubic feet per day
+2023-02,NGMPPM,Natural Gas Permian Marketed Production,21.26837848,billion cubic feet per day
+2023-02,NGMPR48,Natural Gas Rest of U.S. Marketed Production,24.80657829,billion cubic feet per day
+2023-02,NWCAP,Appalachia New Wells Completed,80,
+2023-02,NWCBK,Bakken New Wells Completed,83,
+2023-02,NWCEF,Eagle Ford New Wells Completed,146,
+2023-02,NWCHA,Haynesville New Wells Completed,56,
+2023-02,NWCPM,Permian New Wells Completed,449,
+2023-02,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",216,
+2023-02,NWDAP,Appalachia New Wells Drilled,95,
+2023-02,NWDBK,Bakken New Wells Drilled,80,
+2023-02,NWDEF,Eagle Ford New Wells Drilled,118,
+2023-02,NWDHA,Haynesville New Wells Drilled,74,
+2023-02,NWDPM,Permian New Wells Drilled,525,
+2023-02,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",266,
+2023-02,RIGSAP,Appalachia Active Rigs,51.25,
+2023-02,RIGSBK,Bakken Active Rigs,41,
+2023-02,RIGSEF,Eagle Ford Active Rigs,78.25,
+2023-02,RIGSHA,Haynesville Active Rigs,72.5,
+2023-02,RIGSPM,Permian Active Rigs,352.75,
+2023-02,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",137.5,
+2023-01,COPRAP,Crude Oil Production: Appalachia,.139102282,million barrels per day
+2023-01,COPRBK,Crude Oil Production: Bakken,1.08912953,million barrels per day
+2023-01,COPREF,Crude Oil Production: Eagle Ford,1.117994742,million barrels per day
+2023-01,COPRHA,Crude Oil Production: Haynesville,.033663455,million barrels per day
+2023-01,COPRPM,Crude Oil Production: Permian,5.811476347,million barrels per day
+2023-01,COPRR48,Crude Oil Production: Rest of Lower 48 States,2.085883379,million barrels per day
+2023-01,DUCSAP,Appalachia Drilled but Uncompleted Wells ,578,
+2023-01,DUCSBK,Bakken Drilled but Uncompleted Wells ,572,
+2023-01,DUCSEF,Eagle Ford Drilled but Uncompleted Wells ,943,
+2023-01,DUCSHA,Haynesville Drilled but Uncompleted Wells ,617,
+2023-01,DUCSPM,Permian Drilled but Uncompleted Wells ,2108,
+2023-01,DUCSR48,"Rest of Lower 48 States, excluding GOA Drilled but Uncompleted Wells ",2103,
+2023-01,NGMPAP,Natural Gas Appalachia Marketed Production,35.54689372,billion cubic feet per day
+2023-01,NGMPBK,Natural Gas Bakken Marketed Production,2.717244399,billion cubic feet per day
+2023-01,NGMPEF,Natural Gas Eagle Ford Marketed Production,6.29892768,billion cubic feet per day
+2023-01,NGMPHA,Natural Gas Haynesville Marketed Production,16.35624668,billion cubic feet per day
+2023-01,NGMPPM,Natural Gas Permian Marketed Production,21.30884354,billion cubic feet per day
+2023-01,NGMPR48,Natural Gas Rest of U.S. Marketed Production,25.63058592,billion cubic feet per day
+2023-01,NWCAP,Appalachia New Wells Completed,95,
+2023-01,NWCBK,Bakken New Wells Completed,89,
+2023-01,NWCEF,Eagle Ford New Wells Completed,152,
+2023-01,NWCHA,Haynesville New Wells Completed,54,
+2023-01,NWCPM,Permian New Wells Completed,553,
+2023-01,NWCR48,"Rest of Lower 48 States, excluding GOA New Wells Completed",252,
+2023-01,NWDAP,Appalachia New Wells Drilled,96,
+2023-01,NWDBK,Bakken New Wells Drilled,80,
+2023-01,NWDEF,Eagle Ford New Wells Drilled,121,
+2023-01,NWDHA,Haynesville New Wells Drilled,73,
+2023-01,NWDPM,Permian New Wells Drilled,525,
+2023-01,NWDR48,"Rest of Lower 48 States, excluding GOA New Wells Drilled",296,
+2023-01,RIGSAP,Appalachia Active Rigs,52,
+2023-01,RIGSBK,Bakken Active Rigs,41,
+2023-01,RIGSEF,Eagle Ford Active Rigs,78,
+2023-01,RIGSHA,Haynesville Active Rigs,71.75,
+2023-01,RIGSPM,Permian Active Rigs,354.5,
+2023-01,RIGSR48,"Rest of Lower 48 States, excluding GOA Active Rigs",149.5,
